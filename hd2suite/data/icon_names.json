@@ -1,0 +1,480 @@
+{
+ "boosters": {
+  "Vitality": {
+   "name": "Vitality Enhancement",
+   "id": 1110686504,
+   "id_source": "save test + name hash"
+  },
+  "Stamina": {
+   "name": "Stamina Enhancement",
+   "id": 684729784,
+   "id_source": "save test + name hash"
+  },
+  "MuscleEnhancement": {
+   "name": "Muscle Enhancement",
+   "id": 2776452811,
+   "id_source": "save test + name hash"
+  },
+  "UAVRecon": {
+   "name": "UAV Recon Booster",
+   "id": 4136928865,
+   "id_source": "save test + name hash"
+  },
+  "IncreasedReinforcementBudget": {
+   "name": "Increased Reinforcement Budget",
+   "id": 4066886572,
+   "id_source": "save test + name hash"
+  },
+  "FlexibleReinforcementBudget": {
+   "name": "Flexible Reinforcement Budget",
+   "id": 4273318008,
+   "id_source": "save test + name hash"
+  },
+  "HellpodSpaceOptimization": {
+   "name": "Hellpod Space Optimization",
+   "id": 1908198785,
+   "id_source": "save test + name hash"
+  },
+  "LocalizationConfusion": {
+   "name": "Localization Confusion",
+   "id": 876985512,
+   "id_source": "save test + name hash"
+  },
+  "FastExtraction": {
+   "name": "Expert Extraction Pilot",
+   "id": 3504405746,
+   "id_source": "save test + name hash"
+  },
+  "SlowStunResistance": {
+   "name": "Motivational Shocks",
+   "id": 2709264466,
+   "id_source": "save test + name hash"
+  },
+  "CombatDrugs": {
+   "name": "Experimental Infusion",
+   "id": 3912131454,
+   "id_source": "save test + name hash"
+  },
+  "FieryDrop": {
+   "name": "Firebomb Hellpods",
+   "id": 3102833400,
+   "id_source": "save test + name hash"
+  },
+  "DoubleSampleChance": {
+   "name": "Sample Scanner",
+   "id": 336215081,
+   "id_source": "name hash booster_double_sample_chance (not save-tested)"
+  },
+  "DeathMarch": {
+   "name": "Dead Sprint",
+   "id": 2239116615,
+   "id_source": "save test + name hash"
+  },
+  "DefensiveAmmoPod": {
+   "name": "Armed Resupply Pods",
+   "id": 3793458484,
+   "id_source": "name hash booster_defensive_ammo_pod (not save-tested)"
+  },
+  "BigEnemiesDropSamples": {
+   "name": "Sample Extricator",
+   "id": 2956046892,
+   "id_source": "name hash booster_big_enemies_drop_samples (not save-tested)"
+  },
+  "ShockPods": {
+   "name": "Stun Pods",
+   "id": 1151328602,
+   "id_source": "name hash booster_shock_pods (not save-tested)"
+  },
+  "SmokePods": {
+   "name": "Concealed Insertion",
+   "id": 1602836857,
+   "id_source": "name hash booster_smoke_pods (not save-tested)"
+  },
+  "FireExtinguish": {
+   "name": "Integrated Extinguishers",
+   "id": 3545987157,
+   "id_source": "name hash booster_fire_extinguish (not save-tested)"
+  },
+  "FreeEAT": {
+   "name": "Surplus EAT Allocation",
+   "id": 1213901450,
+   "id_source": "save test + name hash"
+  }
+ },
+ "titles": {
+  "Tier00": {
+   "name": "Cadet",
+   "on_wiki": true
+  },
+  "Tier01": {
+   "name": "Space Cadet",
+   "on_wiki": true
+  },
+  "Tier02": {
+   "name": "Sergeant",
+   "on_wiki": true
+  },
+  "Tier03": {
+   "name": "Master Sergeant",
+   "on_wiki": true
+  },
+  "Tier10": {
+   "name": "Chief",
+   "on_wiki": true
+  },
+  "Tier11": {
+   "name": "Space Chief Prime",
+   "on_wiki": true
+  },
+  "Tier12": {
+   "name": "Death Captain",
+   "on_wiki": true
+  },
+  "Tier20": {
+   "name": "Marshal",
+   "on_wiki": true
+  },
+  "Tier21": {
+   "name": "Star Marshal",
+   "on_wiki": true
+  },
+  "Tier22": {
+   "name": "Admiral",
+   "on_wiki": true
+  },
+  "Tier23": {
+   "name": "Skull Admiral",
+   "on_wiki": true
+  },
+  "Tier30": {
+   "name": "Fleet Admiral",
+   "on_wiki": true
+  },
+  "Tier31": {
+   "name": "Admirable Admiral",
+   "on_wiki": true
+  },
+  "Tier40": {
+   "name": "Commander",
+   "on_wiki": true
+  },
+  "Tier41": {
+   "name": "Galactic Commander",
+   "on_wiki": true
+  },
+  "Tier42": {
+   "name": "Hell Commander",
+   "on_wiki": true
+  },
+  "Tier50": {
+   "name": "General",
+   "on_wiki": true
+  },
+  "Tier51": {
+   "name": "5-Star General",
+   "on_wiki": true
+  },
+  "Tier52": {
+   "name": "10-Star General",
+   "on_wiki": true
+  },
+  "Tier60": {
+   "name": "Private",
+   "on_wiki": true
+  },
+  "Tier61": {
+   "name": "Super Private",
+   "on_wiki": true
+  },
+  "Tier70": {
+   "name": "5-Star Super Private",
+   "on_wiki": true
+  },
+  "Tier71": {
+   "name": "10-Star Super Private",
+   "on_wiki": true
+  },
+  "Tier72": {
+   "name": "Ranger",
+   "on_wiki": true
+  },
+  "Tier80": {
+   "name": "Ranger, Eagle Class",
+   "on_wiki": true
+  },
+  "Tier81": {
+   "name": "Ranger, Bald Eagle Class",
+   "on_wiki": true
+  },
+  "Tier82": {
+   "name": "Divemaster",
+   "on_wiki": true
+  },
+  "Tier90": {
+   "name": "First Divemaster",
+   "on_wiki": true
+  },
+  "Tier91": {
+   "name": "Divemaster Major",
+   "on_wiki": true
+  },
+  "Tier92": {
+   "name": "Command Divemaster Major",
+   "on_wiki": true
+  },
+  "Tier100": {
+   "name": "Master Divemaster",
+   "on_wiki": true
+  },
+  "Tier101": {
+   "name": "Master Divemaster Major Omega",
+   "on_wiki": true
+  },
+  "Tier102": {
+   "name": "Max Rank",
+   "on_wiki": true
+  },
+  "Tier110": {
+   "name": "Max Rank Infinity",
+   "on_wiki": true
+  },
+  "Tier111": {
+   "name": "Max Rank Infinity +1",
+   "on_wiki": true
+  },
+  "Tier112": {
+   "name": "Rank 300",
+   "on_wiki": true
+  },
+  "SuperCitizen": {
+   "name": "Super Citizen",
+   "on_wiki": true
+  },
+  "ViperCommando": {
+   "name": "Viper Commando",
+   "on_wiki": true
+  },
+  "FireSafetyOfficer": {
+   "name": "Fire Safety Officer",
+   "on_wiki": true
+  },
+  "ExpertExterminator": {
+   "name": "Expert Exterminator",
+   "on_wiki": true
+  },
+  "FreeOfThought": {
+   "name": "Free of Thought",
+   "on_wiki": true
+  },
+  "AssaultInfantry": {
+   "name": "Assault Infantry",
+   "on_wiki": true
+  },
+  "SuperPedestrian": {
+   "name": "Super Pedestrian",
+   "on_wiki": true
+  },
+  "ServantOfFreedom": {
+   "name": "Servant of Freedom",
+   "on_wiki": true
+  },
+  "SuperSheriff": {
+   "name": "Super Sheriff",
+   "on_wiki": true
+  },
+  "DecoratedHero": {
+   "name": "Decorated Hero",
+   "on_wiki": true
+  },
+  "ExemplarySubject": {
+   "name": "Exemplary Subject",
+   "on_wiki": true
+  },
+  "ExtraJudicial": {
+   "name": "Extra Judicial",
+   "on_wiki": true
+  },
+  "Rookie": {
+   "name": "Rookie",
+   "on_wiki": true
+  },
+  "BurierOfHeads": {
+   "name": "Burier of Heads",
+   "on_wiki": true
+  },
+  "Redacted": {
+   "name": "[Redacted]",
+   "on_wiki": true
+  },
+  "PythonCommando": {
+   "name": "Python Commando",
+   "on_wiki": true
+  },
+  "BunkerBuster": {
+   "name": "Bunker Buster",
+   "on_wiki": true
+  },
+  "Mudskipper": {
+   "name": "Mudskipper",
+   "on_wiki": true
+  },
+  "ExosuitCertified": {
+   "name": "Exosuit Certified",
+   "on_wiki": true
+  },
+  "Helldriver": {
+   "name": "Helldriver",
+   "on_wiki": false
+  },
+  "Tank": {
+   "name": "Treadhead",
+   "on_wiki": true
+  },
+  "StillStanding": {
+   "name": "Still Standing",
+   "on_wiki": true
+  },
+  "Sniper": {
+   "name": "Longshot",
+   "on_wiki": true
+  },
+  "ApexProtector": {
+   "name": "Apex Protector",
+   "on_wiki": false
+  },
+  "ScourgeOfTyranny": {
+   "name": "Scourge of Tyranny",
+   "on_wiki": false
+  }
+ },
+ "perks": {
+  "ArmorBase": {
+   "name": "EXTRA PADDING",
+   "value": 1
+  },
+  "ArmorBattleHardened": {
+   "name": "SERVO-ASSISTED",
+   "value": 8
+  },
+  "ArmorCombatEngineer": {
+   "name": "ENGINEERING KIT",
+   "value": 6
+  },
+  "ArmorCombatMedic": {
+   "name": "MED-KIT",
+   "value": 7
+  },
+  "ArmorConstitution": {
+   "name": "ADRENO-DEFIBRILLATOR",
+   "value": 19
+  },
+  "ArmorDriver": {
+   "name": "KINETIC DISPLACEMENT MITIGATION",
+   "value": 39
+  },
+  "ArmorDustDevil": {
+   "name": "DESERT STORMER",
+   "value": 21
+  },
+  "ArmorElementalResistance": {
+   "name": "ACCLIMATED",
+   "value": 15
+  },
+  "ArmorExperimental": {
+   "name": "ELECTRICAL CONDUIT",
+   "value": 5
+  },
+  "ArmorFireResistant": {
+   "name": "INFLAMMABLE",
+   "value": 11
+  },
+  "ArmorFireSupport": {
+   "name": "FORTIFIED",
+   "value": 3
+  },
+  "ArmorGasResistance": {
+   "name": "ADVANCED FILTRATION",
+   "value": 13
+  },
+  "ArmorHero": {
+   "name": "DEMOCRACY PROTECTS",
+   "value": 9
+  },
+  "ArmorHomelandAdvantage": {
+   "name": "SIEGE-READY",
+   "value": 16
+  },
+  "ArmorJungle": {
+   "name": "ROCK-SOLID",
+   "value": 33
+  },
+  "ArmorKevlar": {
+   "name": "BALLISTIC PADDING",
+   "value": 20
+  },
+  "ArmorMech": {
+   "name": "OXYGENATOR",
+   "value": 38
+  },
+  "ArmorNacho": {
+   "name": "FEET FIRST",
+   "value": 31
+  },
+  "ArmorPeakPhysique": {
+   "name": "PEAK PHYSIQUE",
+   "value": 12
+  },
+  "ArmorPostmortemExplosion": {
+   "name": "INTEGRATED EXPLOSIVES",
+   "value": 17
+  },
+  "ArmorQuickShot": {
+   "name": "GUNSLINGER",
+   "value": 18
+  },
+  "ArmorReducedPainFlinch": {
+   "name": "UNFLINCHING",
+   "value": 14
+  },
+  "ArmorShark": {
+   "name": "TRUE GRIT",
+   "value": 41
+  },
+  "ArmorSiegebreakers": {
+   "name": "SUPPLEMENTAL ADRENALINE",
+   "value": 34
+  },
+  "ArmorSniper": {
+   "name": "STATIONARY SHROUD",
+   "value": 42
+  },
+  "ArmorSpecOps": {
+   "name": "REDUCED SIGNATURE",
+   "value": 32
+  },
+  "ArmorStrongLimbs": {
+   "name": "REINFORCED EPAULETTES",
+   "value": 10
+  },
+  "ArmorTactician": {
+   "name": "SCOUT",
+   "value": 2
+  },
+  "ArmorTank": {
+   "name": "BLUNT-FORCE MITIGATION",
+   "value": 40
+  },
+  "ArmorTrenchHeavy": {
+   "name": "CONCUSSIVE PADDING, REINFORCED",
+   "value": 35
+  },
+  "ArmorTrenchLight": {
+   "name": "CONCUSSIVE PADDING, HAZMAT",
+   "value": 37
+  },
+  "ArmorTrenchMedium": {
+   "name": "CONCUSSIVE PADDING, GRENADIER",
+   "value": 36
+  }
+ }
+}

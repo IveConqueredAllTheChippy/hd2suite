@@ -1,0 +1,45 @@
+HD2 Mod Tools (hd2suite) - credits and notices
+==============================================
+
+Unofficial, fan-made tool. Not affiliated with, endorsed by or supported by Arrowhead Game Studios or
+Sony Interactive Entertainment. HELLDIVERS is their trademark.
+
+Pictures (hd2suite\images)
+  Made from the game's own files: armor and helmet renders, cape composites, weapon / stratagem / perk / booster /
+  title icons, player cards, emote thumbnails. They are Arrowhead Game Studios' artwork and remain theirs.
+  They are here only so that the editor can show what an item is.
+
+Tools and sources this was built with (none of their code or files is included in this folder)
+  Filediver, by xypwn and contributors - https://github.com/xypwn/filediver
+      A modified copy was used to render the armor pictures and extract the icons.
+  SHODAN's Stat Editor
+      Reference for how the game's settings tables are read. Its icon pack was not used.
+  The HD2 modding community's "LUT & Cape Modding Guide"
+      How cape colours are stored.
+  Helldivers Wiki
+      Names of titles, boosters and perks (names only, no images).
+
+Item names (part of hd2suite\data\items.json)
+  Some names come from the community data set helldivers-2/json - https://github.com/helldivers-2/json
+
+      MIT License. Copyright (c) 2024 Helldivers 2 Community
+      Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+      documentation files (the "Software"), to deal in the Software without restriction, including without limitation
+      the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and
+      to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+      The above copyright notice and this permission notice shall be included in all copies or substantial portions
+      of the Software.
+      THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+      THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+      AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+      CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+      DEALINGS IN THE SOFTWARE.
+
+Formats implemented in hd2suite\testament.py (own code, written from the public descriptions)
+  LZ4 block format, by Yann Collet.   MurmurHash64A, by Austin Appleby (public domain).
+
+Python (only if the folder "python" is present)
+  The official CPython for Windows from python.org, unchanged; its licence is python\LICENSE.txt and its origin
+  python\ORIGIN.txt. Python is a trademark of the Python Software Foundation.
+
+Licence of hd2suite itself: not chosen yet.

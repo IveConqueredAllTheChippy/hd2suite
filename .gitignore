@@ -1,0 +1,11 @@
+python/
+hd2suite/images/
+__pycache__/
+*.pyc
+*.exe
+*.sav
+*.old
+error.log
+SHA256SUMS.txt
+hd2suite/backups/
+hd2suite/loadouts/

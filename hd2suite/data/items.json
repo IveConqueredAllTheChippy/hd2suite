@@ -1,0 +1,3863 @@
+{
+"note": "ids for the Helldivers 2 loadout save editor. kits / weapons / stratagems: from the game tables. misc: names per kind (community list helldivers-2/json, wiki names, save tests); which ids exist per kind is in item_types.json. A trailing \" ?\" on a name = placed by position only, not confirmed. other: names whose kind is unknown.",
+"built": "2026-11-12",
+"game": "b26251122 tables",
+"kits": {
+"530315896": {
+"kind": "Armor",
+"name": "FS-37 Ravager",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2033511819": {
+"kind": "Helmet",
+"name": "FS-37 Ravager",
+"passive": "",
+"rarity": "Common"
+},
+"3544585106": {
+"kind": "Armor",
+"name": "FS-55 Devastator",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"90720489": {
+"kind": "Helmet",
+"name": "FS-55 Devastator",
+"passive": "",
+"rarity": "Common"
+},
+"3672418116": {
+"kind": "Armor",
+"name": "SA-25 Steel Trooper",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"2745690429": {
+"kind": "Helmet",
+"name": "SA-25 Steel Trooper",
+"passive": "",
+"rarity": "Common"
+},
+"4072133621": {
+"kind": "Armor",
+"name": "SA-12 Servo-Assisted",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"2362677051": {
+"kind": "Helmet",
+"name": "SA-12 Servo-Assisted",
+"passive": "",
+"rarity": "Common"
+},
+"1010744048": {
+"kind": "Armor",
+"name": "SA-32 Dynamo",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"4089246094": {
+"kind": "Helmet",
+"name": "SA-32 Dynamo",
+"passive": "",
+"rarity": "Common"
+},
+"650064382": {
+"kind": "Armor",
+"name": "CE-74 Breaker",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"3996028128": {
+"kind": "Helmet",
+"name": "CE-74 Breaker",
+"passive": "",
+"rarity": "Common"
+},
+"324813428": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1801556340": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1931908001": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"2355853539": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"263608846": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"4138636345": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"4264835049": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"4216001108": {
+"kind": "Armor",
+"name": "CE-35 Trench Engineer",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2952500571": {
+"kind": "Helmet",
+"name": "CE-35 Trench Engineer",
+"passive": "",
+"rarity": "Common"
+},
+"4081083564": {
+"kind": "Armor",
+"name": "CE-67 Titan",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2547476111": {
+"kind": "Helmet",
+"name": "CE-67 Titan",
+"passive": "",
+"rarity": "Common"
+},
+"2128569605": {
+"kind": "Armor",
+"name": "CE-27 Ground Breaker",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2891794937": {
+"kind": "Helmet",
+"name": "CE-27 Ground Breaker",
+"passive": "",
+"rarity": "Common"
+},
+"476841466": {
+"kind": "Armor",
+"name": "CM-09 Bonesnapper",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"3260726132": {
+"kind": "Helmet",
+"name": "CM-09 Bonesnapper",
+"passive": "",
+"rarity": "Common"
+},
+"3576411155": {
+"kind": "Armor",
+"name": "CM-21 Trench Paramedic",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"3172884100": {
+"kind": "Helmet",
+"name": "CM-21 Trench Paramedic",
+"passive": "",
+"rarity": "Common"
+},
+"2509257439": {
+"kind": "Armor",
+"name": "CM-17 Butcher",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"2792362215": {
+"kind": "Helmet",
+"name": "CM-17 Butcher",
+"passive": "",
+"rarity": "Common"
+},
+"2047279903": {
+"kind": "Armor",
+"name": "CM-10 Clinician",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"2978704486": {
+"kind": "Helmet",
+"name": "CM-10 Clinician",
+"passive": "",
+"rarity": "Common"
+},
+"2775896893": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"310587030": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3058055083": {
+"kind": "Cape",
+"name": "Tyranny's Bane",
+"passive": "",
+"rarity": "Common"
+},
+"1400802885": {
+"kind": "Armor",
+"name": "FS-61 Dreadnought",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"773157227": {
+"kind": "Helmet",
+"name": "FS-61 Dreadnought",
+"passive": "",
+"rarity": "Common"
+},
+"391288265": {
+"kind": "Cape",
+"name": "Agent of Oblivion",
+"passive": "",
+"rarity": "Common"
+},
+"1511511766": {
+"kind": "Armor",
+"name": "CE-07 Demolition Specialist",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"1707113970": {
+"kind": "Helmet",
+"name": "CE-07 Demolition Specialist",
+"passive": "",
+"rarity": "Common"
+},
+"4118634958": {
+"kind": "Armor",
+"name": "SC-15 Drone Master",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2170995148": {
+"kind": "Helmet",
+"name": "SC-15 Drone Master",
+"passive": "",
+"rarity": "Common"
+},
+"547904705": {
+"kind": "Armor",
+"name": "FS-38 Eradicator",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"3664047629": {
+"kind": "Helmet",
+"name": "FS-38 Eradicator",
+"passive": "",
+"rarity": "Common"
+},
+"488691438": {
+"kind": "Armor",
+"name": "B-08 Light Gunner",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"1210216079": {
+"kind": "Helmet",
+"name": "B-08 Light Gunner",
+"passive": "",
+"rarity": "Common"
+},
+"618911418": {
+"kind": "Armor",
+"name": "EX-03 Prototype 3",
+"passive": "ELECTRICAL CONDUIT (5)",
+"rarity": "Common"
+},
+"2327628884": {
+"kind": "Helmet",
+"name": "EX-03 Prototype 3",
+"passive": "",
+"rarity": "Common"
+},
+"2855449476": {
+"kind": "Armor",
+"name": "EX-16 Prototype 16",
+"passive": "ELECTRICAL CONDUIT (5)",
+"rarity": "Common"
+},
+"556660324": {
+"kind": "Helmet",
+"name": "EX-16 Prototype 16",
+"passive": "",
+"rarity": "Common"
+},
+"2346212818": {
+"kind": "Armor",
+"name": "FS-34 Exterminator",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"951081859": {
+"kind": "Helmet",
+"name": "FS-34 Exterminator",
+"passive": "",
+"rarity": "Common"
+},
+"3037986132": {
+"kind": "Armor",
+"name": "DP-40 Hero of the Federation",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Common"
+},
+"2483492566": {
+"kind": "Armor",
+"name": "TR-9 Cavalier of Democracy",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Common"
+},
+"1546684370": {
+"kind": "Helmet",
+"name": "DP-40 Hero of the Federation",
+"passive": "",
+"rarity": "Common"
+},
+"4004823774": {
+"kind": "Helmet",
+"name": "TR-9 Cavalier of Democracy",
+"passive": "",
+"rarity": "Common"
+},
+"3819612061": {
+"kind": "Armor",
+"name": "DP-11 Champion of the People",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Common"
+},
+"4016909011": {
+"kind": "Helmet",
+"name": "DP-11 Champion of the People",
+"passive": "",
+"rarity": "Common"
+},
+"950673533": {
+"kind": "Armor",
+"name": "CM-14 Physician",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"541028876": {
+"kind": "Helmet",
+"name": "CM-14 Physician",
+"passive": "",
+"rarity": "Common"
+},
+"2675118910": {
+"kind": "Armor",
+"name": "TR-117 Alpha Commander",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"793893084": {
+"kind": "Helmet",
+"name": "TR-117 Alpha Commander",
+"passive": "",
+"rarity": "Common"
+},
+"3536156897": {
+"kind": "Armor",
+"name": "B-27 Fortified Commando",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"3508381787": {
+"kind": "Helmet",
+"name": "B-27 Fortified Commando",
+"passive": "",
+"rarity": "Common"
+},
+"2669749508": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2776529082": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3618831709": {
+"kind": "Armor",
+"name": "EX-00 Prototype X",
+"passive": "ELECTRICAL CONDUIT (5)",
+"rarity": "Common"
+},
+"3517336259": {
+"kind": "Helmet",
+"name": "EX-00 Prototype X",
+"passive": "",
+"rarity": "Common"
+},
+"2546928266": {
+"kind": "Armor",
+"name": "CE-81 Juggernaut",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"4242416506": {
+"kind": "Helmet",
+"name": "CE-81 Juggernaut",
+"passive": "",
+"rarity": "Common"
+},
+"3265410911": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"337681978": {
+"kind": "Armor",
+"name": "SC-37 Legionnaire",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"2613138368": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3825651408": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1605151673": {
+"kind": "Helmet",
+"name": "SC-37 Legionnaire",
+"passive": "",
+"rarity": "Common"
+},
+"1155085856": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1675418984": {
+"kind": "Cape",
+"name": "Will of the People",
+"passive": "",
+"rarity": "Common"
+},
+"2107035846": {
+"kind": "Armor",
+"name": "CM-09 Bonesnapper",
+"passive": "",
+"rarity": "Common"
+},
+"1303420068": {
+"kind": "Helmet",
+"name": "CM-09 Bonesnapper",
+"passive": "",
+"rarity": "Common"
+},
+"4249185760": {
+"kind": "Armor",
+"name": "DP-53 Savior of the Free",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Common"
+},
+"139999425": {
+"kind": "Helmet",
+"name": "DP-53 Savior of the Free",
+"passive": "",
+"rarity": "Common"
+},
+"1969314276": {
+"kind": "Armor",
+"name": "SC-30 Trailblazer Scout",
+"passive": "SCOUT (2)",
+"rarity": "Common"
+},
+"492895376": {
+"kind": "Armor",
+"name": "SC-30 Trailblazer Scout",
+"passive": "SCOUT (2)",
+"rarity": "Common"
+},
+"2141363041": {
+"kind": "Helmet",
+"name": "SC-30 Trailblazer Scout",
+"passive": "",
+"rarity": "Common"
+},
+"2606482720": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3682449066": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1521442150": {
+"kind": "Helmet",
+"name": "SC-30 Trailblazer Scout",
+"passive": "",
+"rarity": "Common"
+},
+"2231876405": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"34232232": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1376017051": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"2015397810": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1404455928": {
+"kind": "Cape",
+"name": "Cresting Honor",
+"passive": "",
+"rarity": "Common"
+},
+"2342442877": {
+"kind": "Armor",
+"name": "B-24 Enforcer",
+"passive": "MED-KIT (7)",
+"rarity": "Common"
+},
+"2886393549": {
+"kind": "Armor",
+"name": "B-24 Enforcer",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"2150790862": {
+"kind": "Armor",
+"name": "B-24 Enforcer",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"1092689023": {
+"kind": "Helmet",
+"name": "B-24 Enforcer",
+"passive": "",
+"rarity": "Common"
+},
+"124623533": {
+"kind": "Armor",
+"name": "FS-05 Marksman",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"1490803405": {
+"kind": "Armor",
+"name": "FS-05 Marksman",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"3970674111": {
+"kind": "Armor",
+"name": "FS-05 Marksman",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"255960702": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"2070152922": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"910516311": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"1386151525": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"3642074737": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"3826757243": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"1146282869": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"202045192": {
+"kind": "Helmet",
+"name": "FS-05 Marksman",
+"passive": "",
+"rarity": "Common"
+},
+"3562998132": {
+"kind": "Cape",
+"name": "Liberty's Herald",
+"passive": "",
+"rarity": "Common"
+},
+"2006219485": {
+"kind": "Armor",
+"name": "FS-11 Executioner",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"1447229978": {
+"kind": "Helmet",
+"name": "FS-11 Executioner",
+"passive": "",
+"rarity": "Common"
+},
+"1538571184": {
+"kind": "Armor",
+"name": "SC-34 Infiltrator",
+"passive": "SCOUT (2)",
+"rarity": "Common"
+},
+"1545242578": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1755983237": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3666591402": {
+"kind": "Helmet",
+"name": "SC-34 Infiltrator",
+"passive": "",
+"rarity": "Common"
+},
+"309304502": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"88270577": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"3064132714": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"2733962024": {
+"kind": "Helmet",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"621795009": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"2325051543": {
+"kind": "Armor",
+"name": "TR-7 Ambassador of the Brand",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"487470129": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"1887719913": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"1639126819": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"1333768893": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"1666296234": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"1831924614": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"3583338197": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"325695835": {
+"kind": "Armor",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"470325800": {
+"kind": "Armor",
+"name": "TR-40 Gold Eagle",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"562097037": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"904434511": {
+"kind": "Helmet",
+"name": "TR-7 Ambassador of the Brand",
+"passive": "",
+"rarity": "Common"
+},
+"1332530540": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"1084741268": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"2363964846": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"1773333561": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"639388242": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"1171786296": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"3020061552": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"3750644442": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"4000324077": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"3792160842": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"275807529": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"4257171265": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"3057185732": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"2218652020": {
+"kind": "Helmet",
+"name": "B-01 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"4191752871": {
+"kind": "Helmet",
+"name": "TR-40 Gold Eagle",
+"passive": "",
+"rarity": "Common"
+},
+"1180159923": {
+"kind": "Cape",
+"name": "Foesmasher",
+"passive": "",
+"rarity": "Common"
+},
+"752209840": {
+"kind": "Cape",
+"name": "Independence Bringer",
+"passive": "",
+"rarity": "Common"
+},
+"3359335006": {
+"kind": "Cape",
+"name": "Drape of Glory",
+"passive": "",
+"rarity": "Common"
+},
+"1790198010": {
+"kind": "Cape",
+"name": "Wings of Valor",
+"passive": "",
+"rarity": "Common"
+},
+"285943304": {
+"kind": "Cape",
+"name": "Beacon of Mercy",
+"passive": "",
+"rarity": "Common"
+},
+"2779185355": {
+"kind": "Cape",
+"name": "Unblemished Allegiance",
+"passive": "",
+"rarity": "Common"
+},
+"112836163": {
+"kind": "Cape",
+"name": "Drape of Glory",
+"passive": "",
+"rarity": "Common"
+},
+"1685612430": {
+"kind": "Helmet",
+"name": "IX-VOIDWALKER",
+"passive": "",
+"rarity": "Common"
+},
+"1951513251": {
+"kind": "Helmet",
+"name": "B-02 Gloom Warden",
+"passive": "",
+"rarity": "Common"
+},
+"3386027321": {
+"kind": "Armor",
+"name": "SA-04 Combat Technician",
+"passive": "SCOUT (2)",
+"rarity": "Common"
+},
+"1318035279": {
+"kind": "Helmet",
+"name": "SA-04 Combat Technician",
+"passive": "",
+"rarity": "Common"
+},
+"651522724": {
+"kind": "Armor",
+"name": "FS-23 Battle Master",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"513033465": {
+"kind": "Helmet",
+"name": "FS-23 Battle Master",
+"passive": "",
+"rarity": "Common"
+},
+"1934028230": {
+"kind": "Armor",
+"name": "TR-62 Knight",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"856924396": {
+"kind": "Helmet",
+"name": "TR-62 Knight",
+"passive": "",
+"rarity": "Common"
+},
+"190632838": {
+"kind": "Armor",
+"name": "CW-36 Winter Warrior",
+"passive": "SERVO-ASSISTED (8)",
+"rarity": "Common"
+},
+"3443335388": {
+"kind": "Helmet",
+"name": "CW-36 Winter Warrior",
+"passive": "",
+"rarity": "Common"
+},
+"3690580532": {
+"kind": "Cape",
+"name": "Light of Eternal Liberty",
+"passive": "",
+"rarity": "Common"
+},
+"1090563915": {
+"kind": "Cape",
+"name": "TYRANT HUNTER",
+"passive": "",
+"rarity": "Common"
+},
+"2653547055": {
+"kind": "Cape",
+"name": "Bastion of Integrity",
+"passive": "",
+"rarity": "Common"
+},
+"3598091569": {
+"kind": "Cape",
+"name": "CLOAK OF POSTERITY'S GRATITUDE",
+"passive": "",
+"rarity": "Common"
+},
+"734807139": {
+"kind": "Cape",
+"name": "BOTSLAYER",
+"passive": "",
+"rarity": "Common"
+},
+"3239075772": {
+"kind": "Cape",
+"name": "MARTYRIS REX",
+"passive": "",
+"rarity": "Common"
+},
+"199989180": {
+"kind": "Cape",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"4111053667": {
+"kind": "Cape",
+"name": "Agent of Oblivion",
+"passive": "",
+"rarity": "Common"
+},
+"1695626205": {
+"kind": "Cape",
+"name": "Beacon of Mercy",
+"passive": "",
+"rarity": "Common"
+},
+"2040543168": {
+"kind": "Cape",
+"name": "EAGLE'S FURY",
+"passive": "",
+"rarity": "Common"
+},
+"2592491111": {
+"kind": "Cape",
+"name": "Drape of Glory",
+"passive": "",
+"rarity": "Common"
+},
+"3259725045": {
+"kind": "Cape",
+"name": "JUDGMENT DAY",
+"passive": "",
+"rarity": "Common"
+},
+"865246378": {
+"kind": "Cape",
+"name": "FALLEN HERO'S VENGEANCE",
+"passive": "",
+"rarity": "Common"
+},
+"4176085421": {
+"kind": "Cape",
+"name": "BLAZING SAMARITAN",
+"passive": "",
+"rarity": "Common"
+},
+"4000666917": {
+"kind": "Cape",
+"name": "THE CAPE OF STARS AND SUFFRAGE",
+"passive": "",
+"rarity": "Common"
+},
+"3616764107": {
+"kind": "Cape",
+"name": "JUSTICE FOR ALL",
+"passive": "",
+"rarity": "Common"
+},
+"2007907056": {
+"kind": "Cape",
+"name": "Will of the People",
+"passive": "",
+"rarity": "Common"
+},
+"2457217350": {
+"kind": "Cape",
+"name": "INFILTRATOR",
+"passive": "",
+"rarity": "Common"
+},
+"843390517": {
+"kind": "Cape",
+"name": "MANTLE OF TRUE CITIZENSHIP",
+"passive": "",
+"rarity": "Common"
+},
+"2098201552": {
+"kind": "Cape",
+"name": "FREEDOM'S TAPESTRY",
+"passive": "",
+"rarity": "Common"
+},
+"308572558": {
+"kind": "Cape",
+"name": "HARBINGER OF TRUE EQUALITY",
+"passive": "",
+"rarity": "Common"
+},
+"4124916847": {
+"kind": "Cape",
+"name": "Unblemished Allegiance",
+"passive": "",
+"rarity": "Common"
+},
+"1853027475": {
+"kind": "Cape",
+"name": "Light of Eternal Liberty",
+"passive": "",
+"rarity": "Common"
+},
+"193259933": {
+"kind": "Cape",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"463066946": {
+"kind": "Cape",
+"name": "EMBLEM OF FREEDOM",
+"passive": "",
+"rarity": "Common"
+},
+"582381095": {
+"kind": "Cape",
+"name": "EYE OF FREEDOM",
+"passive": "",
+"rarity": "Common"
+},
+"3881932101": {
+"kind": "Cape",
+"name": "VETERAN'S BANNER",
+"passive": "",
+"rarity": "Common"
+},
+"66704491": {
+"kind": "Cape",
+"name": "Cover of Darkness",
+"passive": "",
+"rarity": "Common"
+},
+"342959649": {
+"kind": "Cape",
+"name": "Standard of Safe Distance",
+"passive": "",
+"rarity": "Common"
+},
+"4237429476": {
+"kind": "Cape",
+"name": "Patient Zero's Rememberance",
+"passive": "",
+"rarity": "Common"
+},
+"1126585234": {
+"kind": "Cape",
+"name": "Pride of the Whistleblower",
+"passive": "",
+"rarity": "Common"
+},
+"3965478926": {
+"kind": "Cape",
+"name": "Proof of Faultless Virtue",
+"passive": "",
+"rarity": "Common"
+},
+"4282790522": {
+"kind": "Cape",
+"name": "Dissident's Nightmare",
+"passive": "",
+"rarity": "Common"
+},
+"2871629098": {
+"kind": "Cape",
+"name": "Pinions of Everlasting Glory",
+"passive": "",
+"rarity": "Common"
+},
+"3892781112": {
+"kind": "Cape",
+"name": "Order of the Venerated Ballot",
+"passive": "",
+"rarity": "Common"
+},
+"2646411735": {
+"kind": "Cape",
+"name": "MARK OF THE CRIMSON FANG",
+"passive": "",
+"rarity": "Common"
+},
+"291340630": {
+"kind": "Cape",
+"name": "EXECUTIONER'S CANOPY",
+"passive": "",
+"rarity": "Common"
+},
+"160503527": {
+"kind": "Cape",
+"name": "PURIFYING ECLIPSE",
+"passive": "",
+"rarity": "Common"
+},
+"3867039847": {
+"kind": "Cape",
+"name": "THE BREACH",
+"passive": "",
+"rarity": "Common"
+},
+"1123234369": {
+"kind": "Cape",
+"name": "Stone-Wrought Perseverance",
+"passive": "",
+"rarity": "Common"
+},
+"1165305553": {
+"kind": "Cape",
+"name": "Vision of Freedom",
+"passive": "",
+"rarity": "Common"
+},
+"452377187": {
+"kind": "Cape",
+"name": "Veil of the Valorous Vagabond",
+"passive": "",
+"rarity": "Common"
+},
+"2679756720": {
+"kind": "Cape",
+"name": "Seal of General Consensus",
+"passive": "",
+"rarity": "Common"
+},
+"3519089118": {
+"kind": "Cape",
+"name": "Greatcloak of Rebar Resolve",
+"passive": "",
+"rarity": "Common"
+},
+"4171120414": {
+"kind": "Cape",
+"name": "Holder of the Yellow Line",
+"passive": "",
+"rarity": "Common"
+},
+"958121814": {
+"kind": "Cape",
+"name": "Fre Liberam",
+"passive": "",
+"rarity": "Common"
+},
+"147568459": {
+"kind": "Cape",
+"name": "Per Democrasum",
+"passive": "",
+"rarity": "Common"
+},
+"3164866294": {
+"kind": "Cape",
+"name": "Reaper of Bounties",
+"passive": "",
+"rarity": "Common"
+},
+"975741671": {
+"kind": "Cape",
+"name": "Way of the Bandolier",
+"passive": "",
+"rarity": "Common"
+},
+"456906913": {
+"kind": "Cape",
+"name": "Federation's Embrace",
+"passive": "",
+"rarity": "Common"
+},
+"1440027723": {
+"kind": "Cape",
+"name": "Humble Regalia",
+"passive": "",
+"rarity": "Common"
+},
+"939953131": {
+"kind": "Cape",
+"name": "Strength in Our Arms",
+"passive": "",
+"rarity": "Common"
+},
+"1113633420": {
+"kind": "Cape",
+"name": "Defender of Our Dream",
+"passive": "",
+"rarity": "Common"
+},
+"2002245864": {
+"kind": "Cape",
+"name": "Protector of the Heart",
+"passive": "",
+"rarity": "Common"
+},
+"1513263450": {
+"kind": "Cape",
+"name": "Thundering Hooves of Loyalty",
+"passive": "",
+"rarity": "Common"
+},
+"3822047995": {
+"kind": "Cape",
+"name": "Prosperous Green",
+"passive": "",
+"rarity": "Common"
+},
+"3076249017": {
+"kind": "Cape",
+"name": "Reckoning's Cheer",
+"passive": "",
+"rarity": "Common"
+},
+"3667835749": {
+"kind": "Cape",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"1838911009": {
+"kind": "Cape",
+"name": "United in Equality",
+"passive": "",
+"rarity": "Common"
+},
+"1917397047": {
+"kind": "Cape",
+"name": "Against the Tyrant Cloud",
+"passive": "",
+"rarity": "Common"
+},
+"4028901518": {
+"kind": "Cape",
+"name": "Veridical Ideology",
+"passive": "",
+"rarity": "Common"
+},
+"2632342951": {
+"kind": "Cape",
+"name": "Red Planet's Memory",
+"passive": "",
+"rarity": "Common"
+},
+"4112773733": {
+"kind": "Cape",
+"name": "Proud Gold",
+"passive": "",
+"rarity": "Common"
+},
+"114199832": {
+"kind": "Cape",
+"name": "Patriot Blue",
+"passive": "",
+"rarity": "Common"
+},
+"1902399433": {
+"kind": "Cape",
+"name": "Ingress-81",
+"passive": "",
+"rarity": "Common"
+},
+"4129649228": {
+"kind": "Cape",
+"name": "Schema Laid Bare",
+"passive": "",
+"rarity": "Common"
+},
+"3041241535": {
+"kind": "Cape",
+"name": "Badge of Order",
+"passive": "",
+"rarity": "Common"
+},
+"4111578760": {
+"kind": "Cape",
+"name": "Eternal Corona",
+"passive": "",
+"rarity": "Common"
+},
+"1588662851": {
+"kind": "Cape",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"285054471": {
+"kind": "Cape",
+"name": "De-Forester's Sailcloth",
+"passive": "",
+"rarity": "Common"
+},
+"3555231182": {
+"kind": "Cape",
+"name": "Gilded Quill",
+"passive": "",
+"rarity": "Common"
+},
+"3026953460": {
+"kind": "Cape",
+"name": "Testament to Attrition",
+"passive": "",
+"rarity": "Common"
+},
+"3954339443": {
+"kind": "Cape",
+"name": "Conductor of Brilliance",
+"passive": "",
+"rarity": "Common"
+},
+"376718346": {
+"kind": "Cape",
+"name": "Over Artifice Triumphant",
+"passive": "",
+"rarity": "Common"
+},
+"1148253951": {
+"kind": "Cape",
+"name": "Miranda's Legacy",
+"passive": "",
+"rarity": "Common"
+},
+"1006046695": {
+"kind": "Cape",
+"name": "Mother Eagle's Wings",
+"passive": "",
+"rarity": "Common"
+},
+"819008890": {
+"kind": "Cape",
+"name": "Rightful Occupier",
+"passive": "",
+"rarity": "Common"
+},
+"2129553675": {
+"kind": "Cape",
+"name": "Windswept Wayfinder",
+"passive": "",
+"rarity": "Common"
+},
+"4083075675": {
+"kind": "Cape",
+"name": "Mark of the Constrictor",
+"passive": "",
+"rarity": "Common"
+},
+"1691924999": {
+"kind": "Cape",
+"name": "Foe Rent Asunder",
+"passive": "",
+"rarity": "Common"
+},
+"1392007336": {
+"kind": "Cape",
+"name": "Honored Heirloom",
+"passive": "",
+"rarity": "Common"
+},
+"3837863752": {
+"kind": "Cape",
+"name": "Eye of the Clandestine",
+"passive": "",
+"rarity": "Common"
+},
+"2491991003": {
+"kind": "Cape",
+"name": "Rags of the Fashionable",
+"passive": "",
+"rarity": "Common"
+},
+"585941262": {
+"kind": "Cape",
+"name": "Wedgeful Tricorn",
+"passive": "",
+"rarity": "Common"
+},
+"1325899013": {
+"kind": "Cape",
+"name": "Pillar of the Abyss",
+"passive": "",
+"rarity": "Common"
+},
+"114520195": {
+"kind": "Cape",
+"name": "Triangulation Veil",
+"passive": "",
+"rarity": "Common"
+},
+"2630208565": {
+"kind": "Cape",
+"name": "Dignity of Toil",
+"passive": "",
+"rarity": "Common"
+},
+"1031686855": {
+"kind": "Cape",
+"name": "Crest of the Unsullied",
+"passive": "",
+"rarity": "Common"
+},
+"453241154": {
+"kind": "Cape",
+"name": "EYE OF LIBERTY",
+"passive": "",
+"rarity": "Common"
+},
+"3180731004": {
+"kind": "Cape",
+"name": "PILLARS OF FREEDOM",
+"passive": "",
+"rarity": "Common"
+},
+"2688443218": {
+"kind": "Cape",
+"name": "Void Veteran",
+"passive": "",
+"rarity": "Common"
+},
+"462774884": {
+"kind": "Cape",
+"name": "Hero of the Children",
+"passive": "",
+"rarity": "Common"
+},
+"534865247": {
+"kind": "Cape",
+"name": "(unnamed)",
+"passive": "",
+"rarity": "Common"
+},
+"2901358327": {
+"kind": "Cape",
+"name": "DEFENDER OF THE WALL",
+"passive": "",
+"rarity": "Common"
+},
+"3890208935": {
+"kind": "Cape",
+"name": "MESSAGE OF MORALE",
+"passive": "",
+"rarity": "Common"
+},
+"2020619131": {
+"kind": "Cape",
+"name": "Bugslayer",
+"passive": "",
+"rarity": "Common"
+},
+"4014974242": {
+"kind": "Cape",
+"name": "Scraps of Sovereignty",
+"passive": "",
+"rarity": "Common"
+},
+"2811514902": {
+"kind": "Cape",
+"name": "Diagram of the Noblest Payload",
+"passive": "",
+"rarity": "Common"
+},
+"1808786641": {
+"kind": "Cape",
+"name": "Arctic Decree",
+"passive": "",
+"rarity": "Common"
+},
+"436377568": {
+"kind": "Cape",
+"name": "Tread of Liberty",
+"passive": "",
+"rarity": "Common"
+},
+"3201849683": {
+"kind": "Cape",
+"name": "Vector of Victory",
+"passive": "",
+"rarity": "Common"
+},
+"340532591": {
+"kind": "Cape",
+"name": "PODIUM OF PROSPERITY",
+"passive": "",
+"rarity": "Common"
+},
+"2261422476": {
+"kind": "Cape",
+"name": "Free-Spirited Spangles",
+"passive": "",
+"rarity": "Common"
+},
+"3130927131": {
+"kind": "Cape",
+"name": "Watchful Compatriot",
+"passive": "",
+"rarity": "Common"
+},
+"1917125054": {
+"kind": "Cape",
+"name": "Camo Cloak",
+"passive": "",
+"rarity": "Common"
+},
+"2588059193": {
+"kind": "Cape",
+"name": "City Fighter's Resolve",
+"passive": "",
+"rarity": "Common"
+},
+"2272511873": {
+"kind": "Cape",
+"name": "Mimetic Mesh",
+"passive": "",
+"rarity": "Common"
+},
+"533071556": {
+"kind": "Cape",
+"name": "Boundary Banner",
+"passive": "",
+"rarity": "Common"
+},
+"1305396035": {
+"kind": "Cape",
+"name": "Standard of Rapid Evacuation",
+"passive": "",
+"rarity": "Common"
+},
+"2317175836": {
+"kind": "Cape",
+"name": "Shroud of the Juggernaut",
+"passive": "",
+"rarity": "Common"
+},
+"2321467216": {
+"kind": "Cape",
+"name": "Tideturner",
+"passive": "",
+"rarity": "Common"
+},
+"3414071094": {
+"kind": "Armor",
+"name": "B-22 Model Citizen",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Common"
+},
+"3964228207": {
+"kind": "Helmet",
+"name": "B-22 Model Citizen",
+"passive": "",
+"rarity": "Common"
+},
+"3106805633": {
+"kind": "Armor",
+"name": "CW-4 Arctic Ranger",
+"passive": "SCOUT (2)",
+"rarity": "Common"
+},
+"1672102597": {
+"kind": "Helmet",
+"name": "CW-4 Arctic Ranger",
+"passive": "",
+"rarity": "Common"
+},
+"1773940042": {
+"kind": "Armor",
+"name": "CW-22 Kodiak",
+"passive": "FORTIFIED (3)",
+"rarity": "Common"
+},
+"2446816200": {
+"kind": "Helmet",
+"name": "CW-22 KODIAK",
+"passive": "",
+"rarity": "Common"
+},
+"1058794522": {
+"kind": "Armor",
+"name": "DP-00 Tactical",
+"passive": "DEMOCRACY PROTECTS (9)",
+"rarity": "Heroic"
+},
+"1481290619": {
+"kind": "Helmet",
+"name": "DP-00 Tactical",
+"passive": "",
+"rarity": "Common"
+},
+"2962098489": {
+"kind": "Armor",
+"name": "B-16 Battle-Scarred Veteran",
+"passive": "",
+"rarity": "Common"
+},
+"2511084797": {
+"kind": "Helmet",
+"name": "B-16 Battle-Scarred Veteran",
+"passive": "",
+"rarity": "Common"
+},
+"4130354432": {
+"kind": "Armor",
+"name": "AF-52 Lockdown",
+"passive": "ADVANCED FILTRATION (13)",
+"rarity": "Common"
+},
+"2597729678": {
+"kind": "Helmet",
+"name": "AF-52 Lockdown",
+"passive": "",
+"rarity": "Common"
+},
+"269114829": {
+"kind": "Armor",
+"name": "AF-91 Field Chemist",
+"passive": "ADVANCED FILTRATION (13)",
+"rarity": "Common"
+},
+"3747577035": {
+"kind": "Helmet",
+"name": "AF-91 Field Chemist",
+"passive": "",
+"rarity": "Common"
+},
+"622973953": {
+"kind": "Armor",
+"name": "UF-84 Doubt Killer",
+"passive": "UNFLINCHING (14)",
+"rarity": "Common"
+},
+"91360070": {
+"kind": "Helmet",
+"name": "UF-84 Doubt Killer",
+"passive": "",
+"rarity": "Common"
+},
+"3017717209": {
+"kind": "Armor",
+"name": "CW-9 White Wolf",
+"passive": "EXTRA PADDING (1)",
+"rarity": "Common"
+},
+"2086225563": {
+"kind": "Helmet",
+"name": "CW-9 White Wolf",
+"passive": "",
+"rarity": "Common"
+},
+"1732669856": {
+"kind": "Armor",
+"name": "CE-64 Grenadier",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"1309115822": {
+"kind": "Helmet",
+"name": "CE-64 Grenadier",
+"passive": "",
+"rarity": "Common"
+},
+"600891740": {
+"kind": "Armor",
+"name": "PH-56 Jaguar",
+"passive": "PEAK PHYSIQUE (12)",
+"rarity": "Common"
+},
+"4033534167": {
+"kind": "Helmet",
+"name": "PH-56 Jaguar",
+"passive": "",
+"rarity": "Common"
+},
+"3739746472": {
+"kind": "Armor",
+"name": "CE-101 Guerilla Gorilla ",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"2310126051": {
+"kind": "Helmet",
+"name": "CE-101 Guerilla Gorilla ",
+"passive": "",
+"rarity": "Common"
+},
+"574241611": {
+"kind": "Armor",
+"name": "I-44 Salamander",
+"passive": "INFLAMMABLE (11)",
+"rarity": "Common"
+},
+"3503184839": {
+"kind": "Helmet",
+"name": "I-44 Salamander",
+"passive": "",
+"rarity": "Common"
+},
+"2357446537": {
+"kind": "Armor",
+"name": "I-92 Fire Fighter",
+"passive": "INFLAMMABLE (11)",
+"rarity": "Common"
+},
+"4248996228": {
+"kind": "Helmet",
+"name": "I-92 Fire Fighter",
+"passive": "",
+"rarity": "Common"
+},
+"323545031": {
+"kind": "Armor",
+"name": "(unnamed)",
+"passive": "ENGINEERING KIT (6)",
+"rarity": "Common"
+},
+"1556124245": {
+"kind": "Armor",
+"name": "AF-50 Noxious Ranger",
+"passive": "ADVANCED FILTRATION (13)",
+"rarity": "Common"
+},
+"3730267817": {
+"kind": "Helmet",
+"name": "AF-50 Noxious Ranger",
+"passive": "",
+"rarity": "Common"
+},
+"3920482375": {
+"kind": "Armor",
+"name": "AF-02 Haz-Master",
+"passive": "ADVANCED FILTRATION (13)",
+"rarity": "Common"
+},
+"796167044": {
+"kind": "Helmet",
+"name": "AF-02 Haz-Master",
+"passive": "",
+"rarity": "Common"
+},
+"3008695584": {
+"kind": "Armor",
+"name": "UF-50 Bloodhound",
+"passive": "UNFLINCHING (14)",
+"rarity": "Common"
+},
+"238751935": {
+"kind": "Helmet",
+"name": "UF-50 Bloodhound",
+"passive": "",
+"rarity": "Common"
+},
+"3059832618": {
+"kind": "Armor",
+"name": "UF-16 Inspector",
+"passive": "UNFLINCHING (14)",
+"rarity": "Common"
+},
+"3530620108": {
+"kind": "Helmet",
+"name": "UF-16 Inspector",
+"passive": "",
+"rarity": "Common"
+},
+"1924428455": {
+"kind": "Armor",
+"name": "PH-9 Predator",
+"passive": "PEAK PHYSIQUE (12)",
+"rarity": "Common"
+},
+"456121928": {
+"kind": "Helmet",
+"name": "PH-9 Predator",
+"passive": "",
+"rarity": "Common"
+},
+"3731036712": {
+"kind": "Armor",
+"name": "PH-202 Twigsnapper",
+"passive": "PEAK PHYSIQUE (12)",
+"rarity": "Common"
+},
+"1470624541": {
+"kind": "Helmet",
+"name": "PH-202 Twigsnapper",
+"passive": "",
+"rarity": "Common"
+},
+"756930608": {
+"kind": "Armor",
+"name": "I-09 Heatseeker",
+"passive": "INFLAMMABLE (11)",
+"rarity": "Common"
+},
+"2983207423": {
+"kind": "Helmet",
+"name": "I-09 Heatseeker",
+"passive": "",
+"rarity": "Common"
+},
+"1449312627": {
+"kind": "Armor",
+"name": "I-102 Draconaught",
+"passive": "INFLAMMABLE (11)",
+"rarity": "Common"
+},
+"1938372630": {
+"kind": "Helmet",
+"name": "I-102 Draconaught",
+"passive": "",
+"rarity": "Common"
+},
+"1352056041": {
+"kind": "Armor",
+"name": "SR-64 Cinderblock",
+"passive": "SIEGE-READY (16)",
+"rarity": "Common"
+},
+"1935281163": {
+"kind": "Helmet",
+"name": "SR-64 Cinderblock",
+"passive": "",
+"rarity": "Common"
+},
+"3788846739": {
+"kind": "Armor",
+"name": "IE-57 Hell-Bent",
+"passive": "INTEGRATED EXPLOSIVES (17)",
+"rarity": "Common"
+},
+"2467151919": {
+"kind": "Helmet",
+"name": "IE-57 Hell-Bent",
+"passive": "",
+"rarity": "Common"
+},
+"1081784714": {
+"kind": "Armor",
+"name": "GS-11 Democracy's Deputy",
+"passive": "GUNSLINGER (18)",
+"rarity": "Common"
+},
+"1490406789": {
+"kind": "Helmet",
+"name": "GS-11 Democracy's Deputy",
+"passive": "",
+"rarity": "Common"
+},
+"4259903063": {
+"kind": "Armor",
+"name": "RE-824 Bearer of the Standard",
+"passive": "REINFORCED EPAULETTES (10)",
+"rarity": "Common"
+},
+"2831092939": {
+"kind": "Helmet",
+"name": "RE-824 Bearer of the Standard",
+"passive": "",
+"rarity": "Common"
+},
+"98922213": {
+"kind": "Armor",
+"name": "SR-24 Street Scout",
+"passive": "SIEGE-READY (16)",
+"rarity": "Common"
+},
+"2477602867": {
+"kind": "Helmet",
+"name": "SR-24 Street Scout",
+"passive": "",
+"rarity": "Common"
+},
+"3594517971": {
+"kind": "Armor",
+"name": "SR-18 Roadblock",
+"passive": "SIEGE-READY (16)",
+"rarity": "Common"
+},
+"3698525369": {
+"kind": "Helmet",
+"name": "SR-18 Roadblock",
+"passive": "",
+"rarity": "Common"
+},
+"2955458928": {
+"kind": "Armor",
+"name": "IE-3 Martyr",
+"passive": "INTEGRATED EXPLOSIVES (17)",
+"rarity": "Common"
+},
+"1412199726": {
+"kind": "Helmet",
+"name": "IE-3 Martyr",
+"passive": "",
+"rarity": "Common"
+},
+"2678678672": {
+"kind": "Armor",
+"name": "IE-12 Righteous",
+"passive": "INTEGRATED EXPLOSIVES (17)",
+"rarity": "Common"
+},
+"2331067702": {
+"kind": "Helmet",
+"name": "IE-12 Righteous",
+"passive": "",
+"rarity": "Common"
+},
+"384743520": {
+"kind": "Armor",
+"name": "GS-17 Frontier Marshal",
+"passive": "GUNSLINGER (18)",
+"rarity": "Common"
+},
+"4131844227": {
+"kind": "Helmet",
+"name": "GS-17 Frontier Marshal",
+"passive": "",
+"rarity": "Common"
+},
+"3028464736": {
+"kind": "Armor",
+"name": "GS-66 Lawmaker",
+"passive": "GUNSLINGER (18)",
+"rarity": "Common"
+},
+"620606144": {
+"kind": "Helmet",
+"name": "GS-66 Lawmaker",
+"passive": "",
+"rarity": "Common"
+},
+"820333399": {
+"kind": "Armor",
+"name": "RE-2310 Honorary Guard",
+"passive": "REINFORCED EPAULETTES (10)",
+"rarity": "Common"
+},
+"1745464610": {
+"kind": "Helmet",
+"name": "RE-2310 Honorary Guard",
+"passive": "",
+"rarity": "Common"
+},
+"3340614564": {
+"kind": "Armor",
+"name": "RE-1861 Parade Commander",
+"passive": "REINFORCED EPAULETTES (10)",
+"rarity": "Common"
+},
+"1736175106": {
+"kind": "Helmet",
+"name": "RE-1861 Parade Commander",
+"passive": "",
+"rarity": "Common"
+},
+"2890020275": {
+"kind": "Armor",
+"name": "AC-1 Dutiful",
+"passive": "ACCLIMATED (15)",
+"rarity": "Heroic"
+},
+"2928638796": {
+"kind": "Helmet",
+"name": "AC-1 Dutiful",
+"passive": "",
+"rarity": "Common"
+},
+"1442671003": {
+"kind": "Armor",
+"name": "AC-2 Obedient",
+"passive": "ACCLIMATED (15)",
+"rarity": "Heroic"
+},
+"681084148": {
+"kind": "Helmet",
+"name": "AC-2 Obedient",
+"passive": "",
+"rarity": "Common"
+},
+"2846302183": {
+"kind": "Armor",
+"name": "DP-8 Mountain-Scaled",
+"passive": "SIEGE-READY (16)",
+"rarity": "Common"
+},
+"2979884042": {
+"kind": "Helmet",
+"name": "DP-8 Mountain-Scaled",
+"passive": "",
+"rarity": "Common"
+},
+"383891923": {
+"kind": "Armor",
+"name": "A-9 Helljumper",
+"passive": "FEET FIRST (31)",
+"rarity": "Common"
+},
+"2671741463": {
+"kind": "Helmet",
+"name": "A-9 Helljumper",
+"passive": "",
+"rarity": "Common"
+},
+"3631847226": {
+"kind": "Armor",
+"name": "A-35 Recon",
+"passive": "FEET FIRST (31)",
+"rarity": "Common"
+},
+"3020362878": {
+"kind": "Helmet",
+"name": "A-35 Recon",
+"passive": "",
+"rarity": "Common"
+},
+"4177189740": {
+"kind": "Armor",
+"name": "AD-11 Livewire",
+"passive": "ADRENO-DEFIBRILLATOR (19)",
+"rarity": "Common"
+},
+"619144634": {
+"kind": "Helmet",
+"name": "AD-11 Livewire",
+"passive": "",
+"rarity": "Common"
+},
+"4099506837": {
+"kind": "Armor",
+"name": "BP-77 Grand Juror",
+"passive": "BALLISTIC PADDING (20)",
+"rarity": "Common"
+},
+"403022405": {
+"kind": "Helmet",
+"name": "BP-77 Grand Juror",
+"passive": "",
+"rarity": "Common"
+},
+"3322703981": {
+"kind": "Armor",
+"name": "DS-10 Big Game Hunter",
+"passive": "DESERT STORMER (21)",
+"rarity": "Common"
+},
+"1383669348": {
+"kind": "Helmet",
+"name": "DS-10 Big Game Hunter",
+"passive": "",
+"rarity": "Common"
+},
+"2565365890": {
+"kind": "Armor",
+"name": "RS-6 Fiend Destroyer",
+"passive": "ROCK-SOLID (33)",
+"rarity": "Common"
+},
+"3172433783": {
+"kind": "Helmet",
+"name": "RS-6 Fiend Destroyer",
+"passive": "",
+"rarity": "Common"
+},
+"1305954758": {
+"kind": "Armor",
+"name": "RS-100 SANCTIONER",
+"passive": "REDUCED SIGNATURE (32)",
+"rarity": "Common"
+},
+"1203563552": {
+"kind": "Helmet",
+"name": "RS-100 Sanctioner",
+"passive": "",
+"rarity": "Common"
+},
+"2618015377": {
+"kind": "Armor",
+"name": "CPR-80 Bulwark",
+"passive": "CONCUSSIVE PADDING, REINFORCED (35)",
+"rarity": "Common"
+},
+"2773961410": {
+"kind": "Helmet",
+"name": "CPR-80 Bulwark",
+"passive": "",
+"rarity": "Common"
+},
+"29533812": {
+"kind": "Armor",
+"name": "AD-26 Bleeding Edge",
+"passive": "ADRENO-DEFIBRILLATOR (19)",
+"rarity": "Common"
+},
+"3704509247": {
+"kind": "Helmet",
+"name": "AD-26 Bleeding Edge",
+"passive": "",
+"rarity": "Common"
+},
+"169394743": {
+"kind": "Armor",
+"name": "AD-49 Apollonian",
+"passive": "ADRENO-DEFIBRILLATOR (19)",
+"rarity": "Common"
+},
+"4173742975": {
+"kind": "Helmet",
+"name": "AD-49 Apollonian",
+"passive": "",
+"rarity": "Common"
+},
+"1086743388": {
+"kind": "Armor",
+"name": "BP-20 Correct Officer",
+"passive": "BALLISTIC PADDING (20)",
+"rarity": "Common"
+},
+"995817415": {
+"kind": "Helmet",
+"name": "BP-20 Correct Officer",
+"passive": "",
+"rarity": "Common"
+},
+"162565828": {
+"kind": "Armor",
+"name": "BP-32 Jackboot",
+"passive": "BALLISTIC PADDING (20)",
+"rarity": "Common"
+},
+"2141814630": {
+"kind": "Helmet",
+"name": "BP-32 Jackboot",
+"passive": "",
+"rarity": "Common"
+},
+"1247043334": {
+"kind": "Armor",
+"name": "DS-42 Federation's Blade",
+"passive": "DESERT STORMER (21)",
+"rarity": "Common"
+},
+"3996008186": {
+"kind": "Helmet",
+"name": "DS-42 Federation's Blade",
+"passive": "",
+"rarity": "Common"
+},
+"182347545": {
+"kind": "Armor",
+"name": "DS-191 Scorpion",
+"passive": "DESERT STORMER (21)",
+"rarity": "Common"
+},
+"4074553940": {
+"kind": "Helmet",
+"name": "DS-191 Scorpion",
+"passive": "",
+"rarity": "Common"
+},
+"3964025007": {
+"kind": "Armor",
+"name": "RS-20 Constrictor",
+"passive": "ROCK-SOLID (33)",
+"rarity": "Common"
+},
+"3840063003": {
+"kind": "Helmet",
+"name": "RS-20 Constrictor",
+"passive": "",
+"rarity": "Common"
+},
+"3686931097": {
+"kind": "Armor",
+"name": "RS-40 Beast of Prey",
+"passive": "ROCK-SOLID (33)",
+"rarity": "Common"
+},
+"3978514634": {
+"kind": "Helmet",
+"name": "RS-40 Beast of Prey",
+"passive": "",
+"rarity": "Common"
+},
+"3349510191": {
+"kind": "Armor",
+"name": "SA-7 Headfirst",
+"passive": "SUPPLEMENTAL ADRENALINE (34)",
+"rarity": "Common"
+},
+"2660793694": {
+"kind": "Helmet",
+"name": "SA-7 Headfirst",
+"passive": "",
+"rarity": "Common"
+},
+"3063804173": {
+"kind": "Armor",
+"name": "SA-8 Ram",
+"passive": "SUPPLEMENTAL ADRENALINE (34)",
+"rarity": "Common"
+},
+"2030836577": {
+"kind": "Helmet",
+"name": "SA-8 Ram",
+"passive": "",
+"rarity": "Common"
+},
+"2933292304": {
+"kind": "Armor",
+"name": "RS-89 SHADOW PARAGON",
+"passive": "REDUCED SIGNATURE (32)",
+"rarity": "Common"
+},
+"3495384269": {
+"kind": "Helmet",
+"name": "RS-89 Shadow Paragon",
+"passive": "",
+"rarity": "Common"
+},
+"3389596022": {
+"kind": "Armor",
+"name": "RS-67 Null Cipher",
+"passive": "REDUCED SIGNATURE (32)",
+"rarity": "Common"
+},
+"1483828753": {
+"kind": "Helmet",
+"name": "RS-67 Null Cipher",
+"passive": "",
+"rarity": "Common"
+},
+"1594318277": {
+"kind": "Armor",
+"name": "CPG-48 SAPPER",
+"passive": "CONCUSSIVE PADDING, GRENADIER (36)",
+"rarity": "Common"
+},
+"4256773666": {
+"kind": "Helmet",
+"name": "CPG-48 Sapper",
+"passive": "",
+"rarity": "Common"
+},
+"606536357": {
+"kind": "Armor",
+"name": "CPH-26 COMMANDANT",
+"passive": "CONCUSSIVE PADDING, HAZMAT (37)",
+"rarity": "Common"
+},
+"927211561": {
+"kind": "Helmet",
+"name": "CPH-26 Commandant",
+"passive": "",
+"rarity": "Common"
+},
+"2925099185": {
+"kind": "Armor",
+"name": "KDM-500 OUTRIDER",
+"passive": "KINETIC DISPLACEMENT MITIGATION (39)",
+"rarity": "Common"
+},
+"3534240935": {
+"kind": "Helmet",
+"name": "KDM-500 Outrider",
+"passive": "",
+"rarity": "Common"
+},
+"3160209462": {
+"kind": "Armor",
+"name": "O-44 BONDED PILOT",
+"passive": "OXYGENATOR (38)",
+"rarity": "Common"
+},
+"1105008717": {
+"kind": "Helmet",
+"name": "O-44 Bonded Pilot",
+"passive": "",
+"rarity": "Common"
+},
+"186664391": {
+"kind": "Armor",
+"name": "SS-500 Pale Prosecutor",
+"passive": "STATIONARY SHROUD (42)",
+"rarity": "Common"
+},
+"1952614298": {
+"kind": "Helmet",
+"name": "SS-500 Pale Prosecutor",
+"passive": "",
+"rarity": "Common"
+},
+"873657828": {
+"kind": "Armor",
+"name": "BFM-77 Reformer",
+"passive": "BLUNT-FORCE MITIGATION (40)",
+"rarity": "Common"
+},
+"3991525047": {
+"kind": "Helmet",
+"name": "BFM-77 Reformer",
+"passive": "",
+"rarity": "Common"
+},
+"505999640": {
+"kind": "Armor",
+"name": "KDM-763 Pacesetter",
+"passive": "KINETIC DISPLACEMENT MITIGATION (39)",
+"rarity": "Common"
+},
+"1910769380": {
+"kind": "Helmet",
+"name": "KDM-763 Pacesetter",
+"passive": "",
+"rarity": "Common"
+},
+"461580715": {
+"kind": "Armor",
+"name": "KDM-73 Dragoon",
+"passive": "KINETIC DISPLACEMENT MITIGATION (39)",
+"rarity": "Common"
+},
+"4123751987": {
+"kind": "Helmet",
+"name": "KDM-73 Dragoon",
+"passive": "",
+"rarity": "Common"
+},
+"4159107367": {
+"kind": "Armor",
+"name": "O-3 Free Spirit",
+"passive": "OXYGENATOR (38)",
+"rarity": "Common"
+},
+"2366040666": {
+"kind": "Helmet",
+"name": "O-3 Free Spirit",
+"passive": "",
+"rarity": "Common"
+},
+"779120056": {
+"kind": "Armor",
+"name": "O-2 Heavy Operator",
+"passive": "OXYGENATOR (38)",
+"rarity": "Common"
+},
+"3788138551": {
+"kind": "Helmet",
+"name": "O-2 Heavy Operator",
+"passive": "",
+"rarity": "Common"
+},
+"1561165826": {
+"kind": "Armor",
+"name": "TG-8 Sharpshooter",
+"passive": "TRUE GRIT (41)",
+"rarity": "Common"
+},
+"191298645": {
+"kind": "Helmet",
+"name": "TG-8 Sharpshooter",
+"passive": "",
+"rarity": "Common"
+},
+"2756937165": {
+"kind": "Armor",
+"name": "TG-122 Demo-Trooper",
+"passive": "TRUE GRIT (41)",
+"rarity": "Common"
+},
+"3244366537": {
+"kind": "Helmet",
+"name": "TG-122 Demo-Trooper",
+"passive": "",
+"rarity": "Common"
+},
+"2554075843": {
+"kind": "Armor",
+"name": "SS-33 Mimetic Marshal",
+"passive": "STATIONARY SHROUD (42)",
+"rarity": "Common"
+},
+"2687829093": {
+"kind": "Helmet",
+"name": "SS-33 Mimetic Marshal",
+"passive": "",
+"rarity": "Common"
+},
+"2722369635": {
+"kind": "Armor",
+"name": "SS-15 Focal Point",
+"passive": "STATIONARY SHROUD (42)",
+"rarity": "Common"
+},
+"2407633601": {
+"kind": "Helmet",
+"name": "SS-15 Focal Point",
+"passive": "",
+"rarity": "Common"
+},
+"2355815292": {
+"kind": "Armor",
+"name": "BFM-16 TANKER",
+"passive": "BLUNT-FORCE MITIGATION (40)",
+"rarity": "Common"
+},
+"761393401": {
+"kind": "Helmet",
+"name": "BFM-16 Tanker",
+"passive": "",
+"rarity": "Common"
+},
+"4172861339": {
+"kind": "Armor",
+"name": "BFM-220 Ironclad",
+"passive": "BLUNT-FORCE MITIGATION (40)",
+"rarity": "Common"
+},
+"935728706": {
+"kind": "Helmet",
+"name": "BFM-220 Ironclad",
+"passive": "",
+"rarity": "Common"
+}
+},
+"weapons": {
+"2173864768": {
+"type": "Backpack",
+"name": "Autocannon Backpack",
+"entity": "0x26bddf070c31b275"
+},
+"122941246": {
+"type": "PrimaryWeapon",
+"name": "SG-20 Halt",
+"entity": "pump_shotgun_stun"
+},
+"2518036308": {
+"type": "SidearmWeapon",
+"name": "Stun Lance",
+"entity": "stun_spear"
+},
+"1794436168": {
+"type": "PrimaryWeapon",
+"name": "LAS-16 Sickle",
+"entity": "laser_rifle_long"
+},
+"932374702": {
+"type": "ThrowableWeapon",
+"name": "Anti-Tank Seeker",
+"entity": "at_self_destruct_drone"
+},
+"1875465746": {
+"type": "Backpack",
+"name": "K-9",
+"entity": "guard_dog_stun_backpack"
+},
+"3478892931": {
+"type": "PrimaryWeapon",
+"name": "Accelerator Rifle",
+"entity": "sniper_rifle_helghast"
+},
+"309178703": {
+"type": "PrimaryWeapon",
+"name": "Double-Edge Sickle",
+"entity": "laser_rifle_long_hotshot"
+},
+"2232989803": {
+"type": "SupportWeapon",
+"name": "Commando",
+"entity": "laser_guided_missile_launcher"
+},
+"4255545685": {
+"type": "Backpack",
+"name": "Portable Hellbomb",
+"entity": "bomb_backpack"
+},
+"3455841218": {
+"type": "SupportWeapon",
+"name": "Maxigun",
+"entity": "minigun"
+},
+"2877510587": {
+"type": "ThrowableWeapon",
+"name": "G-3 Smoke",
+"entity": "smoke_grenade"
+},
+"1858752103": {
+"type": "ThrowableWeapon",
+"name": "K-2 Throwing Knife",
+"entity": "throwing_knife"
+},
+"931633769": {
+"type": "PrimaryWeapon",
+"name": "Sweeper",
+"entity": "pump_shotgun_trench"
+},
+"375014954": {
+"type": "ThrowableWeapon",
+"name": "G-23 Stun",
+"entity": "flashbang"
+},
+"2232169940": {
+"type": "PrimaryWeapon",
+"name": "Hyena",
+"entity": "marksman_rifle_drake"
+},
+"1474696864": {
+"type": "PrimaryWeapon",
+"name": "Arbitrator",
+"entity": "assault_rifle_risk"
+},
+"2007887745": {
+"type": "SupportWeapon",
+"name": "Airburst Rocket Launcher",
+"entity": "air_burst_rocket_launcher"
+},
+"1028872423": {
+"type": "Backpack",
+"name": "Ballistic Shield Backpack",
+"entity": "ballistic_shield_backpack"
+},
+"725205791": {
+"type": "PrimaryWeapon",
+"name": "SMG-32 Reprimand",
+"entity": "smg_rhino"
+},
+"2823164517": {
+"type": "ThrowableWeapon",
+"name": "G-16 Impact",
+"entity": "impact_grenade"
+},
+"2564789309": {
+"type": "PrimaryWeapon",
+"name": "Assault Rifle",
+"entity": "assault_rifle_nacho"
+},
+"3219107289": {
+"type": "Backpack",
+"name": "Recoilless Rifle Backpack",
+"entity": "0x1b00bca55e364292"
+},
+"1938200223": {
+"type": "SidearmWeapon",
+"name": "P-113 Verdict",
+"entity": "magnum_pistol"
+},
+"3068666625": {
+"type": "PrimaryWeapon",
+"name": "SG-225IE Breaker Incendiary",
+"entity": "assault_shotgun_incendiary"
+},
+"619315866": {
+"type": "PermanentGear",
+"name": "0x557ea199f0713919",
+"entity": "0x557ea199f0713919"
+},
+"4133671573": {
+"type": "SupportWeapon",
+"name": "Entrenchment Tool",
+"entity": "survival_shovel"
+},
+"875551083": {
+"type": "SupportWeapon",
+"name": "Autocannon",
+"entity": "automatic_cannon"
+},
+"861637146": {
+"type": "SidearmWeapon",
+"name": "Ultimatum",
+"entity": "pistol_cricket"
+},
+"1313198083": {
+"type": "Backpack",
+"name": "Shield Generator Pack",
+"entity": "energy_shield_backpack"
+},
+"3623018063": {
+"type": "PrimaryWeapon",
+"name": "Pacifier",
+"entity": "assault_rifle_karbin"
+},
+"3253029690": {
+"type": "Backpack",
+"name": "Warp Pack",
+"entity": "displacement_backpack"
+},
+"2700946317": {
+"type": "Backpack",
+"name": "Guard Dog",
+"entity": "drone_assault_rifle_backpack"
+},
+"1084288106": {
+"type": "SidearmWeapon",
+"name": "P-11 Stim Pistol",
+"entity": "stim_pistol"
+},
+"3869545997": {
+"type": "ThrowableWeapon",
+"name": "G-12 Thermite Grenade",
+"entity": "sticky_grenade"
+},
+"339272294": {
+"type": "PrimaryWeapon",
+"name": "R-36 Eruptor",
+"entity": "jet_rifle_phoenix"
+},
+"3981773112": {
+"type": "SidearmWeapon",
+"name": "P-19 Redeemer",
+"entity": "automatic_pistol"
+},
+"3078242205": {
+"type": "SupportWeapon",
+"name": "Railgun",
+"entity": "railgun"
+},
+"2011243293": {
+"type": "PrimaryWeapon",
+"name": "Stoker",
+"entity": "smg_flamer"
+},
+"1092582811": {
+"type": "Backpack",
+"name": "Maxigun Backpack",
+"entity": "minigun_backpack"
+},
+"4152191751": {
+"type": "SupportWeapon",
+"name": "Sterilizer",
+"entity": "chem_gun"
+},
+"3388344762": {
+"type": "SidearmWeapon",
+"name": "Ombudsman",
+"entity": "revolver_pistol_long"
+},
+"4243413869": {
+"type": "Backpack",
+"name": "Dog Breath",
+"entity": "drone_gas_projector_backpack"
+},
+"3806884545": {
+"type": "ThrowableWeapon",
+"name": "Caltrops",
+"entity": "caltrops_grenade"
+},
+"3228109421": {
+"type": "ThrowableWeapon",
+"name": "Immolation",
+"entity": "molotov_grenade"
+},
+"1182300424": {
+"type": "PrimaryWeapon",
+"name": "SG-225 Breaker",
+"entity": "assault_shotgun"
+},
+"4109429659": {
+"type": "SidearmWeapon",
+"name": "SABER",
+"entity": "ceremonial_saber"
+},
+"3744531484": {
+"type": "SupportWeapon",
+"name": "Break-Action Shotgun",
+"entity": "shotgun_doublebarrel"
+},
+"2918647117": {
+"type": "SupportWeapon",
+"name": "Solo Silo Targeting Remote",
+"entity": "0xfc13460592ca79aa"
+},
+"1639574879": {
+"type": "ThrowableWeapon",
+"name": "Pineapple",
+"entity": "cluster_frag_grenade"
+},
+"539671360": {
+"type": "PrimaryWeapon",
+"name": "Gallant",
+"entity": "smg_solvent"
+},
+"2811723672": {
+"type": "SidearmWeapon",
+"name": "P-2 Peacemaker",
+"entity": "standard_pistol"
+},
+"153819019": {
+"type": "SupportWeapon",
+"name": "De-Escalator",
+"entity": "grenade_launcher_tactical"
+},
+"14345846": {
+"type": "SupportWeapon",
+"name": "Stalwart",
+"entity": "0xd53ee03481ae73fd"
+},
+"1339288659": {
+"type": "ThrowableWeapon",
+"name": "Melta Mine",
+"entity": "mine_shark"
+},
+"924530093": {
+"type": "PrimaryWeapon",
+"name": "R-63CS Diligence Counter Sniper",
+"entity": "marksman_rifle_vigilance_burst"
+},
+"2140866400": {
+"type": "SupportWeapon",
+"name": "Epoch",
+"entity": "plasma_blaster"
+},
+"4146034362": {
+"type": "SupportWeapon",
+"name": "Nova",
+"entity": "laser_rifle_ion"
+},
+"1321109120": {
+"type": "PrimaryWeapon",
+"name": "SG-451 Cookout",
+"entity": "pump_shotgun_dragon"
+},
+"3197732872": {
+"type": "SidearmWeapon",
+"name": "STUN BATON",
+"entity": "stun_baton"
+},
+"838686177": {
+"type": "PrimaryWeapon",
+"name": "Censor",
+"entity": "marksman_rifle_justice"
+},
+"1733110979": {
+"type": "PermanentGear",
+"name": "0x7548cbd5883f81a2",
+"entity": "0x7548cbd5883f81a2"
+},
+"376039023": {
+"type": "PrimaryWeapon",
+"name": "AR-23C Liberator Concussive",
+"entity": "assault_rifle_exp"
+},
+"1440244352": {
+"type": "Backpack",
+"name": "Rover",
+"entity": "drone_laser_rifle_backpack"
+},
+"2979303494": {
+"type": "PrimaryWeapon",
+"name": "Evictor",
+"entity": "pump_grenade_launcher"
+},
+"992079466": {
+"type": "SupportWeapon",
+"name": "Arc Thrower",
+"entity": "arc_thrower"
+},
+"1934208922": {
+"type": "PrimaryWeapon",
+"name": "Punisher fire of liberty",
+"entity": "pump_shotgun_flm"
+},
+"1462250732": {
+"type": "SidearmWeapon",
+"name": "COMBAT HATCHET",
+"entity": "hand_axe"
+},
+"2018836169": {
+"type": "SidearmWeapon",
+"name": "Pistol",
+"entity": "pistol_nacho"
+},
+"272480476": {
+"type": "Backpack",
+"name": "Directional Shield",
+"entity": "directional_energy_shield_backpack"
+},
+"2112173638": {
+"type": "PrimaryWeapon",
+"name": "Shear",
+"entity": "laser_rifle_charge"
+},
+"519340933": {
+"type": "Backpack",
+"name": "C4 Pack",
+"entity": "c4_charge_backpack"
+},
+"3866352840": {
+"type": "PrimaryWeapon",
+"name": "LAS-5 Scythe",
+"entity": "laser_rifle"
+},
+"533318241": {
+"type": "SupportWeapon",
+"name": "Heavy Machine Gun",
+"entity": "heavy_mg"
+},
+"4108040377": {
+"type": "PrimaryWeapon",
+"name": "FLAM-66 Torcher",
+"entity": "flamethrower_ripley"
+},
+"2887941494": {
+"type": "PrimaryWeapon",
+"name": "PLAS-101 Purifier",
+"entity": "plasma_rifle_charge"
+},
+"2273006189": {
+"type": "Backpack",
+"name": "Airburst Rocket Backpack",
+"entity": "air_burst_rocket_backpack"
+},
+"3344526787": {
+"type": "PrimaryWeapon",
+"name": "Assault Rifle",
+"entity": "assault_rifle_helghast"
+},
+"2173315377": {
+"type": "SidearmWeapon",
+"name": "Entrenchment Tool",
+"entity": "survival_shovel_trench"
+},
+"2340232366": {
+"type": "SidearmWeapon",
+"name": "P-72 Crisper",
+"entity": "flamer_pistol"
+},
+"4010403312": {
+"type": "Backpack",
+"name": "MEDIC BACKPACK",
+"entity": "medic_backpack"
+},
+"1639485025": {
+"type": "PrimaryWeapon",
+"name": "Liberator Legacy",
+"entity": "assault_rifle_legacy"
+},
+"890972990": {
+"type": "SupportWeapon",
+"name": "W.A.S.P. Launcher",
+"entity": "faf_missile_launcher_helghast"
+},
+"2640366401": {
+"type": "PrimaryWeapon",
+"name": "BR-14 Adjudicator",
+"entity": "battle_rifle"
+},
+"1991476415": {
+"type": "ThrowableWeapon",
+"name": "antitank_grenade",
+"entity": "antitank_grenade"
+},
+"189227448": {
+"type": "ThrowableWeapon",
+"name": "Giga Grenade",
+"entity": "at_explosive_grenade"
+},
+"774795224": {
+"type": "SupportWeapon",
+"name": "Meltagun",
+"entity": "energy_weapon_shark"
+},
+"3923676543": {
+"type": "SupportWeapon",
+"name": "Spear",
+"entity": "faf_missile_launcher"
+},
+"358989959": {
+"type": "SidearmWeapon",
+"name": "Missile Pistol",
+"entity": "smart_pistol_missile"
+},
+"3330450692": {
+"type": "SupportWeapon",
+"name": "Breaching Hammer",
+"entity": "sledge_hammer"
+},
+"1625792993": {
+"type": "ThrowableWeapon",
+"name": "Urchin",
+"entity": "sticky_stun_grenade"
+},
+"512147393": {
+"type": "Backpack",
+"name": "Belt-Fed Grenade Launcher Backpack",
+"entity": "belt_fed_grenade_launcher_backpack"
+},
+"4161086429": {
+"type": "PrimaryWeapon",
+"name": "R-2124 Constitution",
+"entity": "bolt_action_rifle"
+},
+"3066314944": {
+"type": "Backpack",
+"name": "Autocannon Backpack",
+"entity": "automatic_cannon_backpack"
+},
+"338685597": {
+"type": "ThrowableWeapon",
+"name": "emp_grenade",
+"entity": "emp_grenade"
+},
+"2161995568": {
+"type": "PrimaryWeapon",
+"name": "Knight",
+"entity": "smg_defender"
+},
+"1942567317": {
+"type": "PrimaryWeapon",
+"name": "CB-9 Exploding Crossbow",
+"entity": "crossbow_greyfax"
+},
+"3757606668": {
+"type": "PrimaryWeapon",
+"name": "Amendment",
+"entity": "battle_rifle_ceremonial"
+},
+"4050324431": {
+"type": "PrimaryWeapon",
+"name": "Hot-shot Marksman Rifle",
+"entity": "marksman_rifle_shark"
+},
+"16338515": {
+"type": "ThrowableWeapon",
+"name": "G-13 Incendiary Impact",
+"entity": "incendiary_impact_grenade"
+},
+"2088854385": {
+"type": "PrimaryWeapon",
+"name": "SG-8 Punisher",
+"entity": "pump_shotgun"
+},
+"4101644410": {
+"type": "PrimaryWeapon",
+"name": "Sai",
+"entity": "laser_smg_blaster"
+},
+"432912135": {
+"type": "Backpack",
+"name": "Cremator Backpack",
+"entity": "heavy_flamethrower_backpack"
+},
+"2207713849": {
+"type": "SupportWeapon",
+"name": "Anti-Materiel Rifle",
+"entity": "sniper_rifle"
+},
+"838155692": {
+"type": "SupportWeapon",
+"name": "TACTICAL VIDEO CAMERA",
+"entity": "shoulder_mounted_camera"
+},
+"1676113140": {
+"type": "PrimaryWeapon",
+"name": "AR-23P Liberator Penetrator",
+"entity": "assault_rifle_ap"
+},
+"3271863995": {
+"type": "SidearmWeapon",
+"name": "Bolt Pistol",
+"entity": "pistol_shark"
+},
+"2121387072": {
+"type": "PrimaryWeapon",
+"name": "JAR-5 Dominator",
+"entity": "jet_rifle"
+},
+"2821209932": {
+"type": "PrimaryWeapon",
+"name": "SMG-37 Defender",
+"entity": "personal_defense_weapon"
+},
+"207998803": {
+"type": "SidearmWeapon",
+"name": "Warrant",
+"entity": "smart_pistol"
+},
+"1902682578": {
+"type": "SidearmWeapon",
+"name": "PLAS-15 Loyalist",
+"entity": "plasma_pistol"
+},
+"999487482": {
+"type": "PrimaryWeapon",
+"name": "ARC-12 Blitzer",
+"entity": "arc_shotgun"
+},
+"2264358800": {
+"type": "SidearmWeapon",
+"name": "SG-22 Bushwhacker",
+"entity": "triple_barrel_breakshotgun"
+},
+"3748434442": {
+"type": "SupportWeapon",
+"name": "C4 Pack",
+"entity": "c4_charge"
+},
+"3997705262": {
+"type": "SidearmWeapon",
+"name": "Breacher",
+"entity": "hornet_pistol"
+},
+"1160920394": {
+"type": "PrimaryWeapon",
+"name": "AR-23A Liberator Carbine",
+"entity": "assault_rifle_patriot"
+},
+"3883022479": {
+"type": "Backpack",
+"name": "Hot Dog",
+"entity": "drone_flamethrower_backpack"
+},
+"3572024208": {
+"type": "SupportWeapon",
+"name": "Defoliation Tool",
+"entity": "chainsaw_greatsword"
+},
+"2432087455": {
+"type": "Backpack",
+"name": "Spear Backpack",
+"entity": "0x35b5af8b1e859540"
+},
+"3343676429": {
+"type": "SupportWeapon",
+"name": "Grenade Launcher",
+"entity": "grenade_launcher"
+},
+"3814689025": {
+"type": "PrimaryWeapon",
+"name": "SG-225SP Breaker Spray&Pray",
+"entity": "assault_shotgun_bir"
+},
+"3413606544": {
+"type": "SupportWeapon",
+"name": "Expendable Anti-Tank",
+"entity": "lat_oneshot"
+},
+"1432571981": {
+"type": "SupportWeapon",
+"name": "Cremator",
+"entity": "frv_flamethrower"
+},
+"1789694805": {
+"type": "ThrowableWeapon",
+"name": "Seeker",
+"entity": "self_destruct_drone"
+},
+"790588279": {
+"type": "Backpack",
+"name": "W.A.S.P. Launcher Backpack",
+"entity": "faf_missile_launcher_helghast_backpack"
+},
+"2246547985": {
+"type": "PrimaryWeapon",
+"name": "SG-8S Slugger",
+"entity": "pump_shotgun_slug"
+},
+"2649062090": {
+"type": "Backpack",
+"name": "Jump Pack",
+"entity": "jumppack_backpack"
+},
+"1246313930": {
+"type": "PrimaryWeapon",
+"name": "SMG",
+"entity": "smg_nacho"
+},
+"1179533432": {
+"type": "PrimaryWeapon",
+"name": "SMG",
+"entity": "smg_helghast"
+},
+"2501707184": {
+"type": "SidearmWeapon",
+"name": "LAS-7 Dagger",
+"entity": "laser_pistol"
+},
+"3800614722": {
+"type": "PrimaryWeapon",
+"name": "Sightliner",
+"entity": "sniper_rifle_simo"
+},
+"1925755439": {
+"type": "Backpack",
+"name": "Supply Pack",
+"entity": "ammo_backpack"
+},
+"3955657629": {
+"type": "PrimaryWeapon",
+"name": "SG-8P Punisher Plasma",
+"entity": "pump_shotgun_plasma"
+},
+"3064825648": {
+"type": "SidearmWeapon",
+"name": "0x2ec9cd598e31930f",
+"entity": "0x2ec9cd598e31930f"
+},
+"397581595": {
+"type": "SupportWeapon",
+"name": "C4 Pack",
+"entity": "c4_charge_detonator"
+},
+"2797735596": {
+"type": "SidearmWeapon",
+"name": "GP-31 Grenade Pistol",
+"entity": "grenade_pistol"
+},
+"1920655850": {
+"type": "SidearmWeapon",
+"name": "TALON",
+"entity": "energy_revolver"
+},
+"2906140436": {
+"type": "Backpack",
+"name": "Resupply",
+"entity": "0x35f50dec0ec647c6"
+},
+"819954976": {
+"type": "SupportWeapon",
+"name": "One True Flag",
+"entity": "melee_flag"
+},
+"336693041": {
+"type": "SupportWeapon",
+"name": "Speargun",
+"entity": "harpoon_gun"
+},
+"3748749890": {
+"type": "ThrowableWeapon",
+"name": "G-10 Incendiary",
+"entity": "incendiary_grenade"
+},
+"2625074523": {
+"type": "SupportWeapon",
+"name": "Quasar Cannon",
+"entity": "laser_pulse_cannon"
+},
+"2104346664": {
+"type": "PrimaryWeapon",
+"name": "Deadeye",
+"entity": "lever_action_rifle_01"
+},
+"1255689962": {
+"type": "ThrowableWeapon",
+"name": "G-4 Gas",
+"entity": "gas_grenade"
+},
+"1920374015": {
+"type": "PrimaryWeapon",
+"name": "AR-61 Tenderizer",
+"entity": "assault_rifle_rico"
+},
+"452826786": {
+"type": "Backpack",
+"name": "HOVER PACK",
+"entity": "hover_backpack"
+},
+"1752129915": {
+"type": "ThrowableWeapon",
+"name": "Lure Mine",
+"entity": "luring_mine"
+},
+"780093772": {
+"type": "Backpack",
+"name": "Apex Backpack",
+"entity": "sniper_rifle_duo_backpack"
+},
+"2739958254": {
+"type": "SupportWeapon",
+"name": "0x4f8a477e577aaba9",
+"entity": "0x4f8a477e577aaba9"
+},
+"458198946": {
+"type": "SupportWeapon",
+"name": "Machine Gun",
+"entity": "machinegun"
+},
+"2822568285": {
+"type": "SupportWeapon",
+"name": "Laser Cannon",
+"entity": "laser_cannon"
+},
+"131945085": {
+"type": "ThrowableWeapon",
+"name": "Smokescreen",
+"entity": "impact_smoke_grenade"
+},
+"925809350": {
+"type": "PrimaryWeapon",
+"name": "PLAS-1 Scorcher",
+"entity": "plasma_rifle"
+},
+"2307301438": {
+"type": "PrimaryWeapon",
+"name": "R-63 Diligence",
+"entity": "marksman_rifle_vigilance"
+},
+"1374036584": {
+"type": "SidearmWeapon",
+"name": "P-4 Senator",
+"entity": "revolver_pistol"
+},
+"3082503125": {
+"type": "SupportWeapon",
+"name": "Apex",
+"entity": "sniper_rifle_duo"
+},
+"3417185725": {
+"type": "PrimaryWeapon",
+"name": "Double Freedom",
+"entity": "shotgun_double_freedom"
+},
+"400301984": {
+"type": "PrimaryWeapon",
+"name": "Coyote",
+"entity": "assault_rifle_large_calibre_01"
+},
+"1358331037": {
+"type": "ThrowableWeapon",
+"name": "0x8d1f833f6a16de1a",
+"entity": "0x8d1f833f6a16de1a"
+},
+"1813634375": {
+"type": "SupportWeapon",
+"name": "Expendable Napalm",
+"entity": "expendable_napalm_launcher"
+},
+"2852344585": {
+"type": "PrimaryWeapon",
+"name": "AR-23 Liberator",
+"entity": "assault_rifle"
+},
+"2051054112": {
+"type": "SupportWeapon",
+"name": "Cremator",
+"entity": "heavy_flamethrower"
+},
+"3288352984": {
+"type": "SupportWeapon",
+"name": "Bullet Storm",
+"entity": "expendable_machinegun"
+},
+"1312773632": {
+"type": "SidearmWeapon",
+"name": "Veto",
+"entity": "pistol_broomhandle"
+},
+"942049262": {
+"type": "PrimaryWeapon",
+"name": "SMG-72 Pummeler",
+"entity": "personal_defense_weapon_pepper"
+},
+"271509801": {
+"type": "Backpack",
+"name": "Spear Backpack",
+"entity": "faf_missile_launcher_backpack"
+},
+"1612683909": {
+"type": "ThrowableWeapon",
+"name": "Pyrotech",
+"entity": "zipper_grenade"
+},
+"385461545": {
+"type": "ThrowableWeapon",
+"name": "DYNAMITE",
+"entity": "dynamite"
+},
+"2643754746": {
+"type": "PrimaryWeapon",
+"name": "Suppressor",
+"entity": "assault_rifle_whisper"
+},
+"2934950455": {
+"type": "SupportWeapon",
+"name": "Leveller",
+"entity": "expendable_massive_rocket_launcher"
+},
+"3466282658": {
+"type": "ThrowableWeapon",
+"name": "Shield",
+"entity": "energy_shield_grenade"
+},
+"1298599997": {
+"type": "SupportWeapon",
+"name": "Recoilless Rifle",
+"entity": "recoilless_rifle"
+},
+"1030888251": {
+"type": "ThrowableWeapon",
+"name": "Arc",
+"entity": "arc_grenade"
+},
+"1102600214": {
+"type": "SidearmWeapon",
+"name": "Re-educator",
+"entity": "caustic_dart_gun"
+},
+"469340936": {
+"type": "PrimaryWeapon",
+"name": "Variable",
+"entity": "volley_gun"
+},
+"3428996225": {
+"type": "PrimaryWeapon",
+"name": "One-Two",
+"entity": "assault_rifle_grenadier"
+},
+"3414013062": {
+"type": "PrimaryWeapon",
+"name": "Shotgun",
+"entity": "shotgun_nacho"
+},
+"3191303848": {
+"type": "ThrowableWeapon",
+"name": "G-12 High Explosive",
+"entity": "he_grenade"
+},
+"3286567865": {
+"type": "SidearmWeapon",
+"name": "Mist",
+"entity": "machine_pistol_bull"
+},
+"1076293717": {
+"type": "PermanentGear",
+"name": "0x8e7968d7e7aa4eab",
+"entity": "0x8e7968d7e7aa4eab"
+},
+"3295898003": {
+"type": "ThrowableWeapon",
+"name": "G-6 Frag",
+"entity": "frag_grenade"
+},
+"2213467394": {
+"type": "Backpack",
+"name": "Recoilless Rifle Backpack",
+"entity": "recoilless_rifle_backpack"
+},
+"2870692210": {
+"type": "PrimaryWeapon",
+"name": "LAS-13 Trident",
+"entity": "laser_shotgun"
+},
+"3859022603": {
+"type": "SidearmWeapon",
+"name": "MACHETE",
+"entity": "machete"
+}
+},
+"stratagems": {
+"1907808218": "BACKPACK. SUPPLY BACKPACK",
+"3353508219": "BACKPACK. BALLISTIC SHIELD BACKPACK",
+"272480476": "BACKPACK. DIRECTIONAL ENERGY SHIELD",
+"3843705076": "BACKPACK.  GENERATOR PACK",
+"1753436707": "BACKPACK. JUMPPACK BACKPACK",
+"73468749": "BACKPACK. HOVERPACK BACKPACK",
+"485866824": "BACKPACK. GUARD DOG (Drone)",
+"951988742": "BACKPACK. Laser Rifle (Drone)",
+"5185868": "BACKPACK. GUARD DOG GAS PROJECTOR (Drone)",
+"1125307795": "BACKPACK. GUARD DOG FLAMETHROWER (Drone)",
+"45875024": "BACKPACK. HELLBOMB",
+"2185045091": "BACKPACK. DISPLACEMENT BACKPACK",
+"1692135420": "BACKPACK. GUARD DOG (Drone) Stun",
+"867876502": "CONSUMABLES. RESUPPLY",
+"2229216190": "CONSUMABLES. HEALTH PACK RACK",
+"2808191861": "EAGLE. AIR SUPPORT",
+"4119049995": "EAGLE. 500KG BOMB",
+"1979913877": "EAGLE. 110mm ROCKET PODS",
+"1238358532": "EAGLE. AIRSTRIKE",
+"2040137691": "EAGLE. NAPALM AIRSTRIKE",
+"3656370131": "EAGLE. CLUSTERBOMBS",
+"1685231450": "EAGLE. AIRSTRIKE SMOKE",
+"4196275240": "EAGLE. Gas AIRSTRIKE",
+"3837064536": "EAGLE. REARM",
+"929878807": "EAGLE. (NOT USED) ADDITIONAL STRAFING RUNS",
+"3001049275": "EAGLE. (NOT USED) AIR-TO-AIR MISSLES",
+"2480128092": "EMPLACEMENTS. DEFENSE WALL GRENADE LAUNCHER",
+"2281932031": "EMPLACEMENTS. SHIELD GENERATOR RELAY",
+"2919842659": "EMPLACEMENTS. HEAVY MACHINEGUN EMPLACEMENT",
+"12688472": "EMPLACEMENTS. ANTI-PERSONNEL MINE DEPLOYER",
+"2742141597": "EMPLACEMENTS. INCENDIARY MINE DEPLOYER",
+"2239174926": "EMPLACEMENTS. ANTI-TANK MINE DEPLOYER",
+"644090457": "EMPLACEMENTS. GAS MINE DEPLOYER",
+"2402590523": "EMPLACEMENTS. TESLA TOWER",
+"762584056": "EMPLACEMENTS. ANTI TANK EMPLACEMENT",
+"71548051": "EAGLE FLY BY",
+"4267557474": "ORBITAL CONFETTI",
+"2186648412": "MISSIONS. SHOULDER MOUNTED CAMERA",
+"3928947721": "MISSIONS. Cyborg Carry Data",
+"2319566343": "MISSIONS. Carry Data",
+"716273285": "MISSIONS. DRILLING CHARGE",
+"115737856": "MISSIONS. EXTRACTION",
+"3989310204": "MISSIONS. HELLBOMB",
+"1503060624": "MISSIONS. BUG PLUG",
+"1606251952": "MISSIONS. CARGO CONTAINER",
+"2670122272": "MISSIONS. CARGO CONTAINER",
+"705279885": "MISSIONS. MOBILE COMMS RELAY",
+"1824787072": "MISSIONS. SPIRE STERILIZER",
+"3722314010": "MISSIONS. RAISE FLAG",
+"599201298": "MISSIONS. RAISE FLAG NO CLEAR AREA",
+"2720892179": "MISSIONS. BUG THUMPER",
+"685210453": "MISSIONS. PROSPECTING DRILL",
+"650447969": "MISSIONS. SEISMIC PROBE",
+"1005987791": "MISSIONS. Scrambler",
+"871315230": "MISSIONS. EXTRACTION BEACON",
+"509712523": "MISSIONS. IMMEDIATE EXTRACTION BEACON",
+"716088572": "MISSIONS. EMERGENCY EXTRACTION BEACON",
+"2266266587": "MISSIONS. REINFORCEMENT BEACON",
+"1695682779": "MISSIONS. ORBITAL ILLUMINATION FLARE",
+"3193487269": "MISSIONS. SOS Beacon",
+"3300666223": "MISSIONS. Upload Discovery",
+"2663642538": "MISSIONS CLAN STATION. Nuke",
+"905054095": "MISSIONS CLAN STATION. Carpet Bombing Run",
+"1232978203": "MISSIONS. REMOTE EXPLOSIVES",
+"3868299561": "MISSIONS. JAMMED PINATA",
+"2985177386": "MISSIONS. SEAF GUN",
+"1042447730": "MISSIONS. DARK FLUID BACKPACK",
+"1426041086": "MISSIONS. TCS 03 THUMPER",
+"681028671": "MISSIONS. DATA JACK",
+"1053576110": "BACKPACK. HELLBOMB",
+"65564476": "MISSIONS. OIL RIG EXTRACT",
+"4177070437": "MISSIONS. CALL IN DESTROYER",
+"913592461": "MISSIONS. POISON DRILL",
+"3523620028": "ORBITAL. PRECISION STRIKE",
+"3193297673": "ORBITAL. GAS STRIKE",
+"1560416221": "ORBITAL. AIRBURST STRIKE",
+"2084654169": "ORBITAL. GATLING BARRAGE",
+"1063322614": "ORBITAL. 120MM HE STRIKE",
+"2902516083": "ORBITAL. NAPALM BARRAGE",
+"3108516875": "ORBITAL. 380MM HE BARRAGE",
+"3279813377": "ORBITAL. WALKING BARRAGE",
+"3796132384": "ORBITAL. WALKING BARRAGE SMOKE",
+"3713568312": "ORBITAL. SMOKE STRIKE",
+"1280711447": "ORBITAL. STATIC FIELD CONDUTORS",
+"970450596": "ORBITAL. LASER",
+"2744472229": "ORBITAL. RAILCANNON",
+"1295431756": "PRESIDENT REWARDS. AMMO CACHE",
+"255298804": "PRESIDENT REWARDS. HEALTH PACK RACK",
+"2587901119": "PRESIDENT REWARDS. COMBAT WALKER",
+"1091253198": "PRESIDENT REWARDS. MEDIC BACKPACK",
+"3316399568": "PRESIDENT REWARDS. JUMPPACK BACKPACK",
+"3275255096": "PRESIDENT REWARDS. ROCKET SENTRY",
+"1567517764": "PRESIDENT REWARDS. MACHINEGUN",
+"875551083": "TEAM WEAPONS. AUTOMATIC CANNON",
+"3343676429": "TEAM WEAPONS. GRENADE LAUNCHER",
+"153819019": "TEAM WEAPONS. GRENADE LAUNCHER TACTICAL",
+"512147393": "TEAM WEAPONS. BELT FED GRENADE LAUNCHER",
+"3078242205": "TEAM WEAPONS. RAILGUN ",
+"336693041": "TEAM WEAPONS. HARPOON GUN ",
+"1298599997": "TEAM WEAPONS. RECOILLESS RIFLE",
+"2822568285": "TEAM WEAPONS. LASER CANNON",
+"2625074523": "TEAM WEAPONS. LASER PULSE CANNON",
+"2207713849": "TEAM WEAPONS. SNIPER",
+"3413606544": "TEAM WEAPONS. EXPENDABLE ANTI-TANK",
+"3753216434": "TEAM WEAPONS. EXPENDABLE ANTI-TANK (Booster)",
+"1813634375": "TEAM WEAPONS. EXPENDABLE NAPALM LAUNCHER",
+"2934950455": "TEAM WEAPONS. EXPENDABLE MASSIVE ROCKET LAUNCHER",
+"2232989803": "TEAM WEAPONS. COMMANDO",
+"1432571981": "TEAM WEAPONS. FLAMETHROWER",
+"533318241": "TEAM WEAPONS. HEAVY MACHINEGUN",
+"458198946": "TEAM WEAPONS. MACHINEGUN",
+"14345846": "TEAM WEAPONS. LIGHT MACHINE GUN",
+"3288352984": "TEAM WEAPONS. EXPENDABLE MACHINEGUN",
+"2007887745": "TEAM WEAPONS. AIR BURST ROCKET LAUNCHER",
+"3748434442": "TEAM WEAPONS. C4",
+"1337271929": "TEAM WEAPONS. MINI MISSILE SILO",
+"3923676543": "TEAM WEAPONS. SPEAR",
+"890972990": "TEAM WEAPONS. WASP",
+"992079466": "TEAM WEAPONS. ARC THROWER ",
+"4152191751": "TEAM WEAPONS. CHEM GUN",
+"2265180087": "TEAM WEAPONS. MELEE FLAG",
+"3572024208": "TEAM WEAPONS. CHAINSAW GREATSWORD",
+"3330450692": "TEAM WEAPONS. SLEDGE HAMMER",
+"4261593827": "TEAM WEAPONS. PLASMA BLASTER",
+"3455841218": "TEAM WEAPONS. MINIGUN",
+"2271469939": "TEAM WEAPONS. HEAVY FLAMETHROWER",
+"774795224": "TEAM WEAPONS. SHARK ENERGY WEAPON",
+"3082503125": "TEAM WEAPONS. SNIPER RIFLE DUO (APEX)",
+"4146034362": "TEAM WEAPONS. LASER RIFLE ION",
+"4239785897": "SENTRYS. MACHINEGUN",
+"623391597": "SENTRYS. GATLING",
+"1582497738": "SENTRYS. MORTAR",
+"3085503322": "SENTRYS. MORTAR STATICFIELD",
+"3183339606": "SENTRYS. MORTAR GAS",
+"717707279": "SENTRYS. ROCKET",
+"854563507": "SENTRYS. AUTOCANNON",
+"474724029": "SENTRYS. FLAMETHROWER",
+"960389145": "SENTRIES. LASER CANNON SENTRY",
+"863373678": "TUTORIAL REINFORCEMENT BEACON",
+"2230051894": "[TUTORIAL] EXTRACTION",
+"3935317067": "VEHICLES. FAST RECON VEHICLE (FRV)",
+"2636699686": "VEHICLES. FAST RECON VEHICLE (Resupply Auto Turret)",
+"2846457047": "VEHICLES. FAST RECON VEHICLE (Ramming Flamethrower)",
+"295629711": "VEHICLES. COMBAT WALKER",
+"1290499887": "VEHICLES. COMBAT WALKER OBSIDIAN",
+"3086305673": "VEHICLES. COMBAT WALKER LUMBERER",
+"563851843": "VEHICLES. COMBAT WALKER BREACHER",
+"1449420233": "SEAF Squad",
+"2002187052": "VEHICLES. BASTION(tank)",
+"460870572": "VEHICLES. STORM(tank)",
+"101457192": "TANK. TANK RELOAD HE",
+"3702563421": "TANK. TANK RELOAD AT",
+"4264661046": "TANK. TANK RELOAD CANISTER"
+},
+"misc": {
+"booster": {
+"684729784": "Stamina Enhancement",
+"876985512": "Localization Confusion",
+"1110686504": "Vitality Enhancement",
+"1908198785": "Hellpod Space Optimization",
+"2776452811": "Muscle Enhancement",
+"4066886572": "Increased Reinforcement Budget",
+"4136928865": "UAV Recon Booster",
+"4273318008": "Flexible Reinforcement Budget",
+"3504405746": "Expert Extraction Pilot",
+"2709264466": "Motivational Shocks",
+"3912131454": "Experimental Infusion",
+"3102833400": "Firebomb Hellpods",
+"2239116615": "Dead Sprint",
+"1213901450": "Surplus EAT Allocation",
+"336215081": "Sample Scanner",
+"3793458484": "Armed Resupply Pods",
+"1151328602": "Stun Pods",
+"1602836857": "Concealed Insertion",
+"3545987157": "Integrated Extinguishers",
+"796779894": "Sample Extricator"
+},
+"body": {
+"3684240906": "Lean",
+"826373086": "Brawny"
+},
+"voice": {
+"165957804": "voice pack 3",
+"4010084743": "voice pack 1"
+},
+"pose": {
+"3269065783": "Random",
+"68245049": "Helmet Durability Check",
+"198334139": "High-Five",
+"482071040": "Boxer",
+"825115965": "Courtly Bow",
+"836157113": "Rock Paper Scissors",
+"1200031688": "Explosive Handshake",
+"1227146212": "Distribute Ballots",
+"1232734620": "Call the Helldivers",
+"1351560655": "Squat",
+"1419215247": "Welcome Adoration",
+"1508758952": "Scout Handshake",
+"1609244204": "Thoracic Collision Exultation Maneuver",
+"1680230884": "Big Whoop",
+"1820995838": "Shotgun Show",
+"1964594095": "Clapping",
+"2086772989": "Head Tap",
+"2160784978": "Deep Reflection",
+"2611571391": "Presentable",
+"2665206765": "Hug",
+"2786980659": "Flex",
+"3151461126": "Roll 'em",
+"3222355031": "You're Next",
+"3576665453": "Guns of Liberty",
+"3702613996": "Big Stretch",
+"3748104941": "Loosen Up",
+"4002419096": "Test of Conviction",
+"4053116626": "Finger Guns",
+"4174163718": "Super Person",
+"4184451498": "Mime Instrumentation",
+"1150857575": "Ew",
+"3835891472": "Natural Gas Extraction",
+"4693889": "At Ease"
+},
+"card": {
+"1680566598": "Cover of Darkness",
+"1515684873": "Federation's Embrace",
+"41315794": "Executioner's Canopy",
+"72872360": "Martyris Rex",
+"224494684": "Tyrant Hunter",
+"605306049": "Pinions of Everlasting Glory",
+"854794995": "Harbinger of True Equality",
+"860720602": "Blazing Samaritan",
+"955771480": "The Breach",
+"965539214": "Order of the Venerated Ballot",
+"1067957260": "Light of Eternal Liberty",
+"1337976685": "Cloak of Posterity's Gratitude",
+"1460633236": "Stars and Suffrage",
+"1745784928": "Freedom's Tapestry",
+"1845984949": "Tideturner",
+"1861407750": "Independence Bringer",
+"2119654064": "Eagle's Fury",
+"2778260362": "Botslayer",
+"2846232719": "Agent of Oblivion",
+"2951759505": "Mantle of True Citizenship",
+"3414381310": "Dissident's Nightmare",
+"3566084877": "Judgment Day",
+"3707613985": "Bastion of Integrity",
+"3765579043": "Purifying Eclipse",
+"3897051683": "Mark of the Crimson Fang",
+"3925525294": "Liberty's Herald",
+"4114132787": "Unblemished Allegiance",
+"4236565715": "Cresting Honor",
+"155105392": "Standard of Safe Distance",
+"3460374366": "Patient Zero's Remembrance",
+"601062191": "Pride of the Whistleblower",
+"151318266": "Proof of Faultless Virtue"
+},
+"title": {
+"2500192754": "Assault Infantry",
+"845259075": "Super Citizen",
+"663691115": "Viper Commando",
+"2724145698": "Fire Safety Officer",
+"2195045156": "Expert Exterminator",
+"1301492156": "Free of Thought",
+"780190178": "Super Pedestrian",
+"238241501": "Servant of Freedom",
+"4042829850": "Super Sheriff",
+"2668737738": "Decorated Hero",
+"4109752284": "Extra Judicial",
+"811699753": "Exemplary Subject",
+"2494479670": "Rookie",
+"1809827112": "Burier of Heads",
+"3626179776": "Python Commando",
+"4102069932": "[Redacted]",
+"1702714108": "Bunker Buster",
+"3017660157": "Mudskipper",
+"3545696840": "Exosuit Certified",
+"742934263": "Still Standing",
+"2744478874": "Treadhead",
+"3235311858": "Longshot",
+"436363760": "Cadet ?",
+"2864776199": "Space Cadet ?",
+"783035461": "Sergeant ?",
+"2050983655": "Master Sergeant ?",
+"3534500369": "Chief ?",
+"1270272614": "Space Chief Prime ?",
+"1846720240": "Death Captain ?",
+"3016462333": "Marshal ?",
+"4161927870": "Star Marshal ?",
+"3361168857": "Admiral ?",
+"1917009630": "Skull Admiral ?",
+"739236005": "Fleet Admiral ?",
+"131627305": "Admirable Admiral ?",
+"2333022316": "Commander ?",
+"3337346642": "Galactic Commander ?",
+"3886371824": "Hell Commander ?",
+"108830821": "General ?",
+"781916859": "5-Star General ?",
+"1602327515": "10-Star General ?",
+"2675103067": "Private ?",
+"3686957532": "Super Private ?",
+"926009925": "5-Star Super Private ?",
+"2471970991": "10-Star Super Private ?"
+}
+},
+"other": {
+"58483197": "SA-25 Steel Trooper",
+"108697242": "CW-36 Winter Warrior",
+"161123434": "SC-30 Trailblazer Scout",
+"197210556": "SA-25 Steel Trooper",
+"267424901": "I-102 Draconaught",
+"377236948": "EX-00 Prototype X",
+"627197346": "CE-35 Trench Engineer",
+"683079503": "I-44 Salamander",
+"726539469": "CM-09 Bonesnapper",
+"824775809": "CE-64 Grenadier",
+"989999752": "Safety Orange Exosuit Pattern",
+"1004735217": "EX-03 Prototype 3",
+"1223759745": "EX-16 Prototype 16",
+"1240391202": "I-92 Fire Fighter",
+"1282140582": "I-44 Salamander",
+"1335058381": "CW-9 White Wolf",
+"1452909167": "FS-23 Battle Master",
+"1494299745": "SC-34 Infiltrator",
+"1533004132": "DP-11 Champion of the People",
+"1558906438": "CM-06 Combat Medic",
+"1625732159": "CW-36 Winter Warrior",
+"1664632640": "PH-202 Twigsnapper",
+"1675214662": "SA-12 Servo Assisted",
+"1740717999": "CW-4 Arctic Ranger",
+"1853367679": "EX-00 Prototype X",
+"1877242796": "PH-9 Predator",
+"1975248972": "Undergrowth Hellpod Pattern",
+"2037274048": "FS-23 Battle Master",
+"2076005753": "DP-40 Hero of the Federation",
+"2121537836": "CW-36 Winter Warrior",
+"2137194125": "CE-35 Trench Engineer",
+"2255718673": "CM-14 Physician",
+"2257162260": "DP-40 Hero of the Federation",
+"2380729224": "FS-05 Marksman",
+"2396807401": "SA-04 Combat Technician",
+"2441344260": "SC-34 Infiltrator",
+"2538783678": "CW-9 White Wolf",
+"2575791040": "Undergrowth Shuttle Pattern",
+"2788735945": "PH-9 Predator",
+"2794703739": "I-102 Draconaught",
+"2829569639": "CW-4 Arctic Ranger",
+"2858087169": "SA-12 Servo Assisted",
+"2948747084": "DP-11 Champion of the People",
+"2951026614": "CM-06 Combat Medic",
+"3009693857": "Safety Orange Shuttle Pattern",
+"3015649355": "I-09 Heatseeker",
+"3108744452": "SA-32 Dynamo",
+"3174960214": "CW-22 Kodiak",
+"3182289738": "EX-16 Prototype 16",
+"3182845434": "CW-22 Kodiak",
+"3202051201": "CM-09 Bonesnapper",
+"3233367200": "CE-64 Grenadier",
+"3247235347": "SA-32 Dynamo",
+"3316979892": "I-09 Heatseeker",
+"3377389763": "FS-05 Marksman",
+"3519706084": "Safety Orange Hellpod Pattern",
+"3605514351": "EX-03 Prototype 3",
+"3608481516": "1 Requisition Credit",
+"3658884708": "CM-14 Physician",
+"3728566742": "Undergrowth Exosuit Pattern",
+"3728975654": "PH-202 Twigsnapper",
+"3884524834": "SC-30 Trailblazer Scout",
+"3990548579": "I-92 Fire Fighter",
+"3992382197": "Common Sample",
+"2985106497": "Rare Sample",
+"4111545584": "SA-04 Combat Technician",
+"4230001140": "CW-36 Winter Warrior",
+"2545935501": "Mustard Hellpod",
+"1399805769": "AF-50 Noxious Ranger",
+"1431213118": "AF-50 Noxious Ranger",
+"2209326359": "TX-41 Sterilizer",
+"1342154759": "Mustard Shuttle",
+"996716618": "AF-02 Haz-Master",
+"1368467090": "AF-02 Haz-Master",
+"3775923387": "AX/TX-13 'Guard Dog' Dog Breath",
+"3236079222": "Mustard Exosuit",
+"3241211079": "Inconspicuous Black Exosuit",
+"2579792615": "Inconspicuous Black Hellpod",
+"2484094371": "Inconspicuous Black Shuttle",
+"1": "SR-24 Street Scout",
+"23": "SR-24 Street Scout",
+"3": "Greatcloak of Rebar Resolve",
+"4": "Rebar Resolve",
+"6": "CQC-19 Stun Lance",
+"7": "Directional Shield",
+"8": "Concrete Jungle Hellpod Pattern",
+"10": "Flame Sentry",
+"11": "Concrete Jungle Shuttle Pattern",
+"12": "SR-18 Roadblock",
+"13": "SR-18 Roadblock",
+"14": "Holder of the Yellow Line",
+"16": "Holder of the Yellow Line",
+"17": "Concrete Jungle Vehicle Pattern",
+"19": "This is Democracy",
+"20": "Super Pedestrian",
+"21": "Anti-Tank Emplacement",
+"22": "Concrete Jungle Exosuit Pattern"
+}
+}
